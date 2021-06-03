@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A touch-stone for a Christian Wherein is shewed, how a man may know, whether he be the Temple of the Holy Ghost, hath a sauing faith, be the childe of God, hath truly repented, and (in one word) be a Christian in deed, or in name onely. By Thomas Broade.</title>
+            <author>Broad, Thomas, 1577 or 8-1635.</author>
+         </titleStmt>
+         <extent>Approx. 92KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11791</idno><idno type="EEBO-CITATION">99852577</idno>
+  <idno type="VID">176253</idno>
+  <idno type="EEBO-PROQUEST">2264187143</idno>
+  <idno type="STC">STC 3807_pt2</idno>
+  <idno type="STC">ESTC 3805_CANCELLED</idno>
+  <idno type="STC">ESTC S117363</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99852577e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176253)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1228:08, 1299:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A touch-stone for a Christian Wherein is shewed, how a man may know, whether he be the Temple of the Holy Ghost, hath a sauing faith, be the childe of God, hath truly repented, and (in one word) be a Christian in deed, or in name onely. By Thomas Broade.</title>
+                  <author>Broad, Thomas, 1577 or 8-1635.</author>
+               </titleStmt>
+               <extent>[14], 156, [4]; [4], 101, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Melchisedech Bradwood for Thomas Hauiland, and are to be sold at his shop in Gilt-spurre street without Newgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In two parts; the second part, "A Christians vvarre", has separate dated title page and pagination; register is continuous.</note>
+                  <note>Part 2 is identified as STC 3805 on UMI microfilm, reel 1299, and in Pollard and Redgrave, STC (first edition).</note>
+                  <note>Reproductions of the original in the Bodleian Library.</note>
+                  <note>Appears at reel 1228 (part 1 only) and at reel 1299 (part 2 only).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Repentance --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Anglican authors --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176253:1"/>
+            <p>A CHRISTIANS WARRE: Wherein IS LAID OPEN THE nature of our spirituall <hi>ad<g ref="char:EOLhyphen"/>uersarie, and the manner how</hi> we must withstand his <hi>temptations.</hi>
+            </p>
+            <q>
+               <bibl>EPHES. 6. 11.</bibl>
+               <hi>Put on the whole armour of God, that yee may be able to stand against the as<g ref="char:EOLhyphen"/>saults of the Deuill.</hi>
+            </q>
+            <p>LONDON Printed by <hi>Melchisedech Bradwood</hi> for <hi>Thomas Hauiland,</hi> and are to be sold at his shop in Gilt-spurre <hi>street without Newgate.</hi>
+            </p>
+            <p>1613.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:176253:2"/>
+            <pb facs="tcp:176253:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Ooke-makers now adayes in their Epistles complaine of the number of bookes that are made: their condemning of others (in their owne conceits) is ex<g ref="char:EOLhyphen"/>cuse sufficient for them to doe the same: for they commonly speake a<g ref="char:EOLhyphen"/>gainst the multitude of bookes, and yet themselues presse through the presse vnto the Presse. I am not of their mindes: I dislike not the num<g ref="char:EOLhyphen"/>ber of good bookes, but of idle and fantasticall heads, who sowe tares a<g ref="char:EOLhyphen"/>mong the corne; and feare not, that they may now cause laughter in o<g ref="char:EOLhyphen"/>ther, to haue God one day laugh at their destruction. Suppresse all those which abuse the Presse, and then I haue all done. Else my writings shall much profit the Church of God, though they only hinder the printing of a lasciuious play, with the multi<g ref="char:EOLhyphen"/>tude of which bookes our Church is pressed downe as a cart vnder the sheaues.</p>
+            <pb facs="tcp:176253:3"/>
+            <p> Some say: Playes and such like are good bookes to driue away the time. I say: If playes and such like would keepe the time from going a<g ref="char:EOLhyphen"/>way, I would allow them for good bookes in very deed. But if they help to driue away the time, and so take from vs the necessarie vse of a thing so pretious as the time is, which be<g ref="char:EOLhyphen"/>ing once past is past recouerie; let the Readers of them take good heed, lest they hasten their iourney vnto hell, for I am perswaded they help to driue them, thither with all speed. The Sermon following, since it was first preached hath long rested in peace within my Studie: now that it hath been within the Presse, it is pres<g ref="char:EOLhyphen"/>sed forth to war, as thou seest. God grant it may stoutly fight the Lords battels, &amp; be a meanes to beat down Satans kingdom, that sin raigne not in our mortal bodies. Amen, Amen.</p>
+            <closer>
+               <signed>THOMAS BROADE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:176253:3"/>
+            <head>A SERMON made vpon those words of <hi>S. Iames,</hi>
+            </head>
+            <epigraph>
+               <bibl>IAM. 4. 7.</bibl>
+               <q>Resist the Deuill, and he will flee from you.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He holy Scripture, to the end we might know and well con<g ref="char:EOLhyphen"/>sider the violence &amp; force of the Deuils temptations, likeneth them vnto <hi>fierie darts:</hi> not only vnto <hi>darts,</hi>
+               <note place="margin">Ephes.</note> which by reason of their sharp<g ref="char:EOLhyphen"/>nesse pierce easily; but, vnto <hi>fierie darts,</hi> as which make a way by meanes of their sharpnesse and
+<pb n="2" facs="tcp:176253:4"/> heat also. Againe, to note the dif<g ref="char:EOLhyphen"/>ficultie of withstanding his tem<g ref="char:EOLhyphen"/>ptations, it likeneth vs to <hi>souldi<g ref="char:EOLhyphen"/>ers;</hi> and both his tempting vs to sinne, and our resisting of the same, vnto a <hi>fight</hi> or <hi>battell,</hi> the most violent action in the world, where <hi>omni conatures agitur.</hi> This then being an vsuall Allegorie in the Scriptures, if I shall conti<g ref="char:EOLhyphen"/>nue it in handling of this text, it will not I hope seeme strange to any; vnlesse happily themselues be strangers in Gods word which should dwell plentifully amongst <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oloss. 3.</note> vs, and wherewith we ought all to be well acquainted.</p>
+            <div type="part">
+               <head>
+                  <hi>Resist the Deuill.</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Apo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es coun<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</note>
+               </head>
+               <p>FIrst of him whom wee are to resist, namely the Deuill: whereby is meant not onely the prince, termed by the Iewes, <hi>Beel<g ref="char:EOLhyphen"/>zebub;</hi> but together with him the
+<pb n="3" facs="tcp:176253:4"/> whole retinue of wicked Spirits, that is, the <hi>Dragon and his An<g ref="char:EOLhyphen"/>gels,</hi>
+                  <note place="margin">Reuel. 12.</note> as S. Iohn calleth them.</p>
+               <p>Hee that heareth of an enemie comming to make warre against him, wil be carefull to know both his strength, with what power he commeth; as also his wisdome, how skilfull he is in managing such affaires; and lastly, his will and earnestnesse to put in pra<g ref="char:EOLhyphen"/>ctise that which by his strength and policie he is able to effect: for accordingly heereunto (if he be wise) hee will prouide to with<g ref="char:EOLhyphen"/>stand him; or else, finding him<g ref="char:EOLhyphen"/>selfe vnable so to doe, whiles his enemie is yet a great way off, will send Embassadours to intreat of <note place="margin">Luk. 14.</note> a peace. In this our aduersarie then the Deuill, that we also may the better prepare our selues to resist his assaults (for as for truce, there is none to bee taken with such an enemie, whom nothing
+<pb n="4" facs="tcp:176253:5"/> can content but our euerlasting perdition of soule and body) wee haue to consider both his strength and abilitie to doe vs mischiefe, as also his wisdome, craft and subtiltie; and thirdly his will to prosecute that, which by his strength and skill hee is able to bring to passe.</p>
+            </div>
+            <div type="part">
+               <head>Of the strength of our aduersarie.</head>
+               <p>AS touching his strength; who better knoweth it than that God, which gaue vnto him both his strength &amp; being? And to the end, that wee also might know it, and the better prepare our selues to with stand his force, he hath giuen him a name which doth shew his nature; for hee is termed a Lion, who is the king of beasts, stronger than any beast of the field which the Lord God hath made. And yet, as though
+<pb n="5" facs="tcp:176253:5"/> this roaring Lion were not able of himselfe to doe mischiefe e<g ref="char:EOLhyphen"/>nough, hee hath adioined vnto him two confederates, the flesh, and the world. It is a common saying, <hi>Nè Hercules contraduos:</hi> and how then should wee be able to encounter with three, either of which three ouercame Hercu<g ref="char:EOLhyphen"/>les, and all the wicked (I say, wic<g ref="char:EOLhyphen"/>ked) strong men that euer liued? Three enemies so dangerous as these, whereof one, I meane the Deuill, is the prince that ruleth <note place="margin">Ephes. 2.</note> in the aire, and seemeth to haue beset our way to heauen already: another, I mean the flesh, is with<g ref="char:EOLhyphen"/>in vs, stickes as fast vnto vs as the flesh to the bone, so that we can neuer wholly shake it off, whiles we haue our being in the flesh: a third, I meane the world, we are in; and though wee should take the wings of the morning, and flie into the vttermost parts of
+<pb n="6" facs="tcp:176253:6"/> the earth, yet there also would this our enemie besiege vs round about. One enemie is aboue our heads; another is within vs; and we are in the third: a threefold cord is hardly broken; and God knoweth, how few of vs are able to breake their bands asunder, and to cast away their cords from vs. That you may the lesse doubt what this Lion with his two con<g ref="char:EOLhyphen"/>sederates by strength is able to bring to passe, take but one ex<g ref="char:EOLhyphen"/>ample, and that shall be in S. Pe<g ref="char:EOLhyphen"/>ter: whom though I doe not ac<g ref="char:EOLhyphen"/>knowledge with the Papists for the strong rocke whereon Christ built his Church (for then, when the rocke it selfe was so shaken, what would haue become of the Church built thereupon?) yet with the Disciples I doe acknow<g ref="char:EOLhyphen"/>ledge him for one of the three chiefe among twelue, that were <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l. 2.</note> the chiefe among all the rest; and
+<pb n="7" facs="tcp:176253:6"/> for one againe, whom our Saui<g ref="char:EOLhyphen"/>our willed to strengthen others, <hi>When thou art conuerted, streng<g ref="char:EOLhyphen"/>then</hi>
+                  <note place="margin">Luk. 22.</note>
+                  <hi>thy brethren.</hi> Yet, Peter him<g ref="char:EOLhyphen"/>selfe was not strong enough to wrestle with this roaring Lion, but receiued the foile three times on a row. When such a mightie Cedar of the forest is so shaken; what may the little trees of the field well feare?</p>
+               <p>If any thinke: Wee neuer per<g ref="char:EOLhyphen"/>ceiued the Deuill so to enforce his temptations, as that hee should deserue the name of a Li<g ref="char:EOLhyphen"/>on for the same. Ans: It is be<g ref="char:EOLhyphen"/>cause you slauishly and cowardly yeeld vnto him: for certainly the Deuill may truly say of ma<g ref="char:EOLhyphen"/>ny in these daies, as the Centuri<g ref="char:EOLhyphen"/>on speaketh in the Gospell; <hi>I say</hi>
+                  <note place="margin">Mat. 8.</note>
+                  <hi>to one, Goe; and hee goeth: and to another, Come; and he commeth: and to my seruant, Doe this; and he doth it.</hi> Hee no sooner tempteth,
+<pb n="8" facs="tcp:176253:7"/> but wee are ready to obey: and the strength of an enemie is not knowen, before resistance be of<g ref="char:EOLhyphen"/>fered. When hauing receiued an iniurie, the Deuill tempteth thee to reuenge the same: when hee prouoketh thee to commit whordome, to steale, or to spend thy time idly, to goe to plaies, to the tauerne, to decke thy body ouermuch, &amp;c. beginne to with<g ref="char:EOLhyphen"/>stand his temptations, and then shalt thou soone finde, that hee will fall vpon thee like a Lion in<g ref="char:EOLhyphen"/>deed, so that thou shalt euen be enforced (will thou, nill thou) to yeeld vnto him many times. Not only S. Peter hath felt his force, but others also, euen the most stoutest champions of Christs campe. Wherefore my counsell is with S. Paul; <hi>Let him that thin<g ref="char:EOLhyphen"/>keth he standeth, take heed lest hee</hi>
+                  <note place="margin">Cor. 10.</note>
+                  <hi>receiue a fall:</hi> for his aduersarie the Deuill is a Lion, and wanteth
+<pb n="9" facs="tcp:176253:7"/> no strength to ouerturne him, and lay him flat on the ground.</p>
+            </div>
+            <div type="part">
+               <head>Of the wisdome, policie, and craft of our aduersarie.</head>
+               <p>AS touching his wisdome; who againe better knoweth it than that God, which gaue him both his wisdome, and be<g ref="char:EOLhyphen"/>ing? And to the end wee also might know this, he hath giuen him a name whereby his nature is made manifest: for he is called a <hi>Serpent,</hi> which is wiser than any <note place="margin">Gen. 3.</note> beast of the field, that the Lord God hath made. And not onely so, but an <hi>Old Serpent</hi> too; as who to his wisdome that hee had by nature, hath adioined long ex<g ref="char:EOLhyphen"/>perience. Adde heereunto, his knowledge: for though God only be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the searcher <note place="margin">Act. 1.</note> of the heart and reines; yet is it very probable, that the Deuill
+<pb n="10" facs="tcp:176253:8"/> knoweth all our words &amp; workes, and can shrewdly ghesse euen at the very thoughts and intents of the heart many times. What an aduantage was it for the King of Israel, that the king of Syriaes counsell was reuealed vnto him by the Prophet? When and <note place="margin">2. King. 6.</note> where we arme, and are prouided to resist, that he knowes well e<g ref="char:EOLhyphen"/>nough: but when and where hee meanes to assault, that we are al<g ref="char:EOLhyphen"/>together ignorant of. The like were, as if an old beaten souldier of long experience in the warres, and hauing his eies in his head, should encounter with a fresh wa<g ref="char:EOLhyphen"/>ter souldier that were starke blinde. What equalitie were there betweene these? That you may the lesse doubt, what this old Serpent by his wisdome, his craft, and skill in these matters, is able to effect, take one only ex<g ref="char:EOLhyphen"/>ample: and that shall be in Salo<g ref="char:EOLhyphen"/>mon
+<pb n="11" facs="tcp:176253:8"/> the wise; I may well say, <hi>the wise,</hi> who at the first was so wise, <note place="margin">1. King. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> that euen dreaming he preferred wisdome before long life, riches, and the like, which many in these daies, that would be thought wise notwithstanding, will not doe be they neuer so broad awake. Thus wise was Salomon at the first, and God added vnto him afterward in farre greater abundance: yet Salomon himselfe was not so wise, but that he was deceiued by the old Serpent, and ledde out of the right way many yeeres to<g ref="char:EOLhyphen"/>gether. He now that thinks him<g ref="char:EOLhyphen"/>selfe no wiser than Salomon, hath good cause to be very cir<g ref="char:EOLhyphen"/>cumspect: and hee that thinkes himselfe wiser than Salomon was, hath I thinke farre greater cause, as heereby bewraying the greatnesse of his follie.</p>
+               <p>If any say: Wee neuer percei<g ref="char:EOLhyphen"/>ued the Deuill to vse such craft
+<pb n="12" facs="tcp:176253:9"/> and sleights for the bringing of his purpose to passe. Ans: It i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> because you want either care o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> wit to obserue him. Watch and ward about your selues day and night continually, as the chil<g ref="char:EOLhyphen"/>dren of this world being wise in their generation vse to doe, the enemie being so neere at hand: and then, if you haue any eies in your head, you may easily per<g ref="char:EOLhyphen"/>ceiue what varietie of stratagems he vseth, what ambushments hee laieth for you in euery place. Consider I pray, how much cun<g ref="char:EOLhyphen"/>ning some craftie Hannibal hath attained within the space of forty yeeres: and know, that the De<g ref="char:EOLhyphen"/>uil by nature a Serpent hath had continual practise day and night for almost six thousand yeeres together. There is none of vs, but he hath aforetime dealt with the like disposition, and knowes already where wee are weakest,
+<pb n="13" facs="tcp:176253:9"/> and how wee may be most easily foyled. If hee cannot preuaile when wee are in companie and haue counsell about vs; hee will set vpon vs when we are alone, as he did vpon our mother Eue: if in the light we will not yeeld, he will lay for vs in the darke, when we shall thinke; <hi>No man seeth vs: and the Highest will not remember</hi>
+                  <note place="margin">Eccl. 23.</note>
+                  <hi>our sinnes:</hi> If of himselfe he can doe no good, then will he set our wiues, children or friends a<g ref="char:EOLhyphen"/>gainst vs; and thus a mans wife becomes a Tempter or Satan vnto her husband; for, <hi>Get thee</hi>
+                  <note place="margin">Mat. 16.</note>
+                  <hi>behind me Satan,</hi> said Christ to Peter, when hee was tempted by him. If by no meanes hee can cause vs to commit wickednesse in our owne persons; then our children or seruants shall act it, and wee shall not forbid them, whereby wee our selues become guilty: for, <hi>Malum qui non pro<g ref="char:EOLhyphen"/>hibet</hi>
+                  <pb n="14" facs="tcp:176253:10"/>
+                  <hi>cùm potest, iubet.</hi> The De<g ref="char:EOLhyphen"/>uill it seemes could not cause A<g ref="char:EOLhyphen"/>hab to murther Naboth: nay, <note place="margin">1. King. 21</note> rather than hee would so doe, Ahab seemes willing to kill him<g ref="char:EOLhyphen"/>selfe; for <hi>hee would eat no bread.</hi> But Iezabel promiseth to giue that, which her husband would buy: and Naboth being slaine, <hi>vp</hi> (saith she) <hi>take possession, for Naboth is dead.</hi> What though Naboth were dead? Shall wee thinke that Ahab was his heyre? Yet he goes to take possession: and thus Ahab slew Naboth; <hi>Hast thou killed, and also gotten pos<g ref="char:EOLhyphen"/>session?</hi> saith Elijah to him. Infi<g ref="char:EOLhyphen"/>nite (deare brother) infinite are the sleights and stratagems of this our subtle enemie: and that God which opened Elishaes ser<g ref="char:EOLhyphen"/>uants eyes, enlighten the eyes of thy minde, that thou maist both see and shun them. My counsell againe shall bee with S. Paul;
+<pb n="15" facs="tcp:176253:10"/>
+                  <hi>Worke ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> your saluation with feare</hi>
+                  <note place="margin">Philip. 2.</note>
+                  <hi>and trembling:</hi> for our aduersarie and Deuill is an old Serpent, and wants no subtiltie to worke and procure our destruction.</p>
+            </div>
+            <div type="part">
+               <head>Of the will and earnestnesse of our aduersarie to doe vs mischiefe.</head>
+               <p>AMong men there are three speciall motiues to make <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. One is, a desire of enlar<g ref="char:EOLhyphen"/>ging their dominions and increa<g ref="char:EOLhyphen"/>sing their wealth: which most preuailed with that king, who told a Philosopher, that he pur<g ref="char:EOLhyphen"/>posed to l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an armie, and to set vpon another prince neere adioining. The Philosopher de<g ref="char:EOLhyphen"/>manding, what hee would doe, when he had subdued that coun<g ref="char:EOLhyphen"/>trey: his answer was, that then he would increase his armie, neither did doubt of bringing another
+<pb n="16" facs="tcp:176253:11"/> dominion vnder his subiection. Thus many times: at length the Philosopher demanding, what he would doe when hee had sub<g ref="char:EOLhyphen"/>dued all those countries <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e spake of: the king makes him answer, that then he would returne to his owne kingdome, and liue at case, eat, drinke, and be merry. Wher<g ref="char:EOLhyphen"/>unto the Philosopher replies: And what letteth (O King) but that you may thus doe without hazarding your person and king<g ref="char:EOLhyphen"/>dome, the euent of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> being alwaies vncertaine? But thus wee see, what mooued him to warre <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> although indeed this <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> no per<g ref="char:EOLhyphen"/>petuall motiue, at length hee would haue giuen ouer, and liued in peace.</p>
+               <p>Another principall motiue, hath beene ambition and a de<g ref="char:EOLhyphen"/>sire of vaine glory: which it see<g ref="char:EOLhyphen"/>meth most preuailed with Ale<g ref="char:EOLhyphen"/>xander the great; who hearing a
+<pb n="17" facs="tcp:176253:11"/> Philosopher discoursing of I know not how many worlds be<g ref="char:EOLhyphen"/>sides this, brast forth into teares; and the reason was, because as yet hee had not subdued one world. It seemeth, this his ambitious humour would haue been a per<g ref="char:EOLhyphen"/>petuall motiue, and haue caused him <hi>ambire terras</hi> continually, seeking to conquer all. But of all other, the greatest motiue vnto warre, hath beene hatred and ma<g ref="char:EOLhyphen"/>lice. It is a true saying, <hi>Odium hoc <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>um habet boni, quod sibimet plu<g ref="char:EOLhyphen"/>rimùm affert mali;</hi> hatred, enuie, and malice hath this one onely good propertie, because as a vi<g ref="char:EOLhyphen"/>per it hurteth him in whose bow<g ref="char:EOLhyphen"/>els it is bred and nourished. But it is found too true by experi<g ref="char:EOLhyphen"/>ence, that it hath beene the grea<g ref="char:EOLhyphen"/>test cause of hurt to others. <hi>Inui<g ref="char:EOLhyphen"/>dus alterius rebu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> macrescit opimis:</hi> and how then will hee labour to make another mans good to
+<pb n="18" facs="tcp:176253:12"/> pine and vanish away? The gree<g ref="char:EOLhyphen"/>die king, and ambitious Alexan<g ref="char:EOLhyphen"/>der will shew some pitie, and their passions being more gentle, they shall not be carried so violently: but when malice driues forward, and destruction onely is inten<g ref="char:EOLhyphen"/>ded, there must needs be deadly warre.</p>
+               <p>Now, what should mooue our aduersarie the Deuill thus to af<g ref="char:EOLhyphen"/>fault vs with his fierie darts con<g ref="char:EOLhyphen"/>tinually? I cannot thinke it to be ambition in him; much lesse any hope of bettering his estate: for I am not of their opinion, which terme hell the Deuils kingdome; <note place="margin">
+                     <hi>The Deuils <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ingdome <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of this world.</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Tim. 3.</note> I rather take it to be his prison, where himselfe together with all those that he hath taken captiue shall be tormented eternally. But would you know what it is? Sure<g ref="char:EOLhyphen"/>lie, the deadly hatred, and ex<g ref="char:EOLhyphen"/>treme malice which hee beareth vs; and this, partly for our Crea<g ref="char:EOLhyphen"/>tors
+<pb n="19" facs="tcp:176253:12"/> sake, and partly for our own, God wee know cast him downe from heauen: and seeing he can<g ref="char:EOLhyphen"/>not wreake his anger on God himselfe, hee seekes to wreake it on man, that is, on Gods likenes. <note place="margin">Gen. 1.</note> Man was made, if not to fill vp the places of the Angels which fell, yet to ascend vp to heauen from whence they fell: wherfore no maruell, though the Deuill cast stumbling blockes in our way, and doe his best, or worst rather, to hinder our iourney thither.</p>
+               <p>Whatsoeuer the matter bee, that as you haue heard of his might and skill, you might the lesse doubt of his will also to doe mischiefe, doe but consider his owne words in the first of Iob. Being there demanded by God, whence he came: <hi>I came</hi> (saith <note place="margin">Iob 1.</note> hee) <hi>from compassing the earth to and fro, and from walking thorow it.</hi>
+                  <pb n="20" facs="tcp:176253:13"/> Hee did not only compasse the earth in one part; but, <hi>to and fro,</hi> this way and that way: neither did hee compasse or goe about it only, but, <hi>He walked thorow it too,</hi> and sifted euery corner within the same. Indeed, true it is, hee doth not heere tell vs, wherefore he tooke such paines and was so busie, hee concealeth that: but the holy Ghost hath else-where reuealed it for our good, that we might the better beware of him. <hi>Your aduersarie the Deuill</hi> (saith <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Pet. 5.</note> S. Peter) <hi>goeth about as a roaring Lion, seeking whom he may deuoure.</hi> Heere wee finde wherefore hee goeth about, or (to vse his owne words) <hi>compasseth the earth to and fro, and walketh thorow it,</hi> namely, to bring all men that liue vpon the face of the earth vnto euer la<g ref="char:EOLhyphen"/>sting perdition. It is reported of one Esrem, a deuout and reli<g ref="char:EOLhyphen"/>gious man, that in a vision hee
+<pb n="21" facs="tcp:176253:13"/> saw the whole world and euery corner thereof, set full of nets to catch men in, and at euery of them a Deuill watching ready to deuoure the prey when it was ta<g ref="char:EOLhyphen"/>ken. Whether any man had euer my such vision I cannot affirme: but surely, as S. Augustine telleth vs in his booke of heauenly me<g ref="char:EOLhyphen"/>ditations, <hi>The Deuill hath laid snares inriches, snares in pouertie,</hi>
+                  <note place="margin">
+                     <hi>Aug. M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>dit. cap.</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+                  <hi>snares in meat, snares in drinke, in pleasure snares, in sléepe snares, and snares in watching; hee hath laid snares in our words, snares in our <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>kes, snares in all our waies,</hi> and God knoweth how many of vs are daily taken in those snares? In a word: hee goeth about, hee compasseth the earth to and fro; and walketh thorow it, seeking earnestly, not only as a roaring Lion by might and strength, but also as an old Serpent by craft and subtiltie, by his snares, nets;
+<pb n="22" facs="tcp:176253:14"/> and traps, whom hee may bring to the pit of destruction. Bee a man neuer so mightie, so craftie▪ and maliciously bent against a<g ref="char:EOLhyphen"/>nother; yet being a man he must spend some time in procuring things necessarie, some time in vsing them, and a great part of his time in sleepe: againe, be hee a man and not a beast, the grea<g ref="char:EOLhyphen"/>test part of all, in the seruice of God and procuring the saluati<g ref="char:EOLhyphen"/>on of his foule. But the Deuill is past hope of being saued, his head is not troubled with such matters, his eies neither slumber not sleepe: he hath nothing else to doe day and night, but to worke the woe of carelesse ma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that scarce once in a day so much as thinkes of him▪ Suppose now▪ that some mightie man, and po<g ref="char:EOLhyphen"/>liticke, should bend himselfe wholly to procure the ouerthrow of some man of meane estates
+<pb n="23" facs="tcp:176253:14"/> were it not a wonder but hee should bring his purpose to passe? God of his mercie grant vs grace well to consider of it, and in time to looke about vs: for as there are very few that shall enter in at the strait gate, so they shall one day finde, that they were euen miraculously preserued from the clawes of this deuouring Dragon.</p>
+               <p>Not then to stand any longer in laying open the nature of this our aduersarie: consider only his names giuen him in the Scrip<g ref="char:EOLhyphen"/>ture; and they declare it well e<g ref="char:EOLhyphen"/>nough. He is called Satan, i. an <note place="margin">Iob. 1.</note> aduersarie, to shew the hatred he beareth to mankinde: he is cal<g ref="char:EOLhyphen"/>led a Tempter, because he shew<g ref="char:EOLhyphen"/>eth <note place="margin">Mat. 4.</note> his hatred principally in tempting vs to sinne: hee is ter<g ref="char:EOLhyphen"/>med a Lion, because he wants no strength; as also an old Serpent, because hee wants no craft, to
+<pb n="24" facs="tcp:176253:15"/> bring his temptations, and other his mischieuous imaginations to an end: he is called a Deuill, i. an accuser, because hauing tempted vs to sinne and preuailed, he will afterwards accuse vs for the same, though himselfe were the causer thereof: lastly, he is termed A<g ref="char:EOLhyphen"/>baddon, i. destroying, because he <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eu. 9.</note> walketh about continually, see<g ref="char:EOLhyphen"/>king by all means whom he may deuoure. And now, <hi>Ab vno disce omnes:</hi> such as the old Dragon himselfe is, such are all his wic<g ref="char:EOLhyphen"/>ked Angels. Hauing then so many, so mightie, so craftie and malicious aduersaries, it stan<g ref="char:EOLhyphen"/>deth euery man vpon to pro<g ref="char:EOLhyphen"/>uide himselfe in the best man<g ref="char:EOLhyphen"/>ner hee can, that hee may bee able to resist his force; for no truce (as I said) is to bee taken with such an enemie, whom no<g ref="char:EOLhyphen"/>thing will satisfie in any sort, but our endlesse torments in the
+<pb n="25" facs="tcp:176253:15"/> like which burneth with fire and brimstone;</p>
+            </div>
+            <div type="part">
+               <head>Of the manner how we are to re<g ref="char:EOLhyphen"/>sist the Deuill: and first, of the weapons wherewith we are to arme our selues.</head>
+               <p>THere is a learned man of our time, which holdeth it to be very probable, that the Deuils are sometime h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with a bullet, arrow, or such like flying thorow the aire: which opinion of his hee groundeth partly on the Fa<g ref="char:EOLhyphen"/>thers, and partly on reason. Of the Fathers (he saith) there haue beene, which haue so thought heeretofore. Whereunto (sup<g ref="char:EOLhyphen"/>posing that some haue beene of that opinion) my answer is; that howsoeuer. I well know the Fa<g ref="char:EOLhyphen"/>thers are but children in respect of the Apostles; yet notwithstan<g ref="char:EOLhyphen"/>ding
+<pb n="26" facs="tcp:176253:16"/> I attribute much to their iudgment in any matter: and though much, yet induced not so much neither, as that I would build my faith vpon them. The Fathers I willingly acknowledge all of them were men both god<g ref="char:EOLhyphen"/>ly and learned, and which haue very well deserued of the Church of God: but though they were learned men, and besides that godly men too; yet an opinion of some of them may not carrie away our beliefe without further reason: It is no wrong to them, nor rashnesse in vs, if vpon occasion wee say of them also, <hi>Humanum est lab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> er<g ref="char:EOLhyphen"/>rare, decipi.</hi> Not then to stand longer heereupon, I come to the other ground of his opinion, which is reason: that forasmuch as those wicked Spirits are sensi<g ref="char:EOLhyphen"/>ble substances, when any such substance is parted asunder: by
+<pb n="27" facs="tcp:176253:16"/> any meanes, it must needs bee painfull; and this hee thinketh doth sometime befal them, a bul<g ref="char:EOLhyphen"/>let flying through the aire, where they are most conversant, the Deuill being termed the Prince that there ruleth. Ans: The for<g ref="char:EOLhyphen"/>mer being granted; I can hardly belieue that euer the latter doth befal the Dragon or his Angels: for either by their strength and power they doe repell and beat backe the bullet; or else by their swiftnesse they doe eschew it; or l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stly, by their tenuitie and thin<g ref="char:EOLhyphen"/>nesse they doe rather pierce it, than it them. If this be granted, I cannot see but that the good Angels also must needs bee sub<g ref="char:EOLhyphen"/>iect to the like inconueniences: for they are ministring Spirits <note place="margin">Hebr. 1. Psal. 90.</note> sent into this world for the good of Gods chosen, and are said to compasse the godly about. But indeed, experience doth suffici<g ref="char:EOLhyphen"/>ently
+<pb n="28" facs="tcp:176253:17"/> teach the contrarie: for the Angels both good and bad, are Spirituall substances▪ like as our soules are. If now a man be<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> through with a bullet, or runne through with a sword; it would seeme harsh to say; that his soule were hurt thereby. That which hurteth the bodie, hurteth no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the soule; and contrariwise: vn<g ref="char:EOLhyphen"/>lesse it be <hi>per accident.</hi> Surely, if this were so, then it seemeth wee might resist the Deuil with g<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with swords, and such like wea<g ref="char:EOLhyphen"/>pons: but indeed such as one ad<g ref="char:EOLhyphen"/>uersarie is, such most our wea<g ref="char:EOLhyphen"/>pons be; our aduersarie is a Spi<g ref="char:EOLhyphen"/>rit, and the weapons of our w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, must not be carnall, but spi<g ref="char:EOLhyphen"/>rituall.</p>
+               <p>The Papists haue di<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> wea<g ref="char:EOLhyphen"/>pons to withstand and driue a<g ref="char:EOLhyphen"/>way Deuils; but they are of their owne making, of their owne in<g ref="char:EOLhyphen"/>uention: namely, The signe of
+<pb n="29" facs="tcp:176253:17"/> the Crosse; a Crucifix hung a<g ref="char:EOLhyphen"/>bout their necks, and the like. Neither is it vnknowen, that some of them being thus armed (whereas otherwise they durst not, for they are a Nation much afraid of Spirits) haue been bold to walke through darke and fear<g ref="char:EOLhyphen"/>full places: and indeed these are weapons very wel befitting those that walke in the darke.</p>
+               <p>S<seg rend="sup">t</seg>. Paul our Generall, the A<g ref="char:EOLhyphen"/>postle of vs Gentiles, was better skilled in these matters, and hee willeth the Ephesians to <hi>put on the whole armour of God</hi> (not the <note place="margin">Eph. 6.</note> armour of man, whether inven<g ref="char:EOLhyphen"/>ted by man, (or otherwise) and marke his reason: <hi>for we wrestle not</hi> (saith hee) <hi>against flesh and blood,</hi> which if we did, carnal wea<g ref="char:EOLhyphen"/>pons might serue the turne; but <hi>against principalities, against pow<g ref="char:EOLhyphen"/>ers, against the worldly gouernours, the princes of the darknesse of this</hi>
+                  <pb n="30" facs="tcp:176253:18"/>
+                  <hi>world, against spirituall wickednes<g ref="char:EOLhyphen"/>ses in high places.</hi> Our armour then must bee the armour of God, as indeed being the onely armour of proofe against such aduersaries: and this armour must be <hi>whole</hi> also, to couer eue<g ref="char:EOLhyphen"/>ry part, lest they should haue any aduantage finding any part na<g ref="char:EOLhyphen"/>ked. In battels of this world, I read of helmets, shields, brigan<g ref="char:EOLhyphen"/>dines, &amp;c. and it is said of Goli<g ref="char:EOLhyphen"/>ath, <hi>that he had bookes of brasse vp<g ref="char:EOLhyphen"/>on his legs.</hi> But S<seg rend="sup">t</seg>. Paul, knowing <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Sam. 17</note> what a dangerous enemie one must encounter withall, willeth vs to arme our feet also; <hi>And your feet</hi> (saith hee) <hi>sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d with the</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers: 15.</note>
+                  <hi>preparation of the Gospell of place:</hi> lest otherwise, in steed of <hi>running the way of Gods commandements,</hi> they become <hi>feet swift to shed</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om. 3.</note>
+                  <hi>blood.</hi> For whereas being woun<g ref="char:EOLhyphen"/>ded by the darts of man, they be<g ref="char:EOLhyphen"/>come flow &amp; bleed themselues:
+<pb n="31" facs="tcp:176253:18"/> being wounded with the fiery darts of the Deuill, they become swift to shed the bloud of other men. It stands then euery Chri<g ref="char:EOLhyphen"/>stian souldiour vpon to put on the whole armour of his God: but yet indeed among those sun<g ref="char:EOLhyphen"/>dry weapons mentioned by our Apostle, I would most specially commend three vnto you. Whereof one is a weapon of de<g ref="char:EOLhyphen"/>fence, I meane, <hi>the shield of faith; Aboue all, take the shield of faith, whereby yet may quench all the fie<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/>
+                  <hi>darts of the Deuill.</hi> Another <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> weapon of offence, I meane, <hi>the sword of the Spirit; And take</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/>
+                  <hi>the sword of the spirit, which is the word of God.</hi> A third is a weapon endued with strange and won<g ref="char:EOLhyphen"/>derful properties, for it hardneth the shield of faith, and giueth an edge to the sword of the Spirit, and this is, Prayer: <hi>Pray alwaies <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> all manner of prayer and sup<g ref="char:EOLhyphen"/>plication</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/>
+                  <pb n="32" facs="tcp:176253:19"/>
+                  <hi>in the Spirit, and watch there vnto with all perseuerance.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the shield of faith.</head>
+               <p>
+                  <hi>TAke the shield of faith,</hi> that is, put your trust in God, and depend onely on his prouidence. This weapon, though needfull for all men and at all times; yet would I principally commend vnto two sorts of men.</p>
+               <p>One is those, which are in any great bodily danger, as penurie sicknesse, imprisonment, and the like: I would haue them take the shield of faith into their hands; and not doubt but the Lord in his good time will deliuer them out of all their miseries, accor<g ref="char:EOLhyphen"/>ding to that saying of holy Scrip<g ref="char:EOLhyphen"/>ture, <hi>Many are the troubles of the</hi>
+                  <note place="margin">Psal. 34.</note>
+                  <hi>righteous, but the Lord deliuereth them out of all.</hi> After that our Sauiour had fasted fortie dayes
+<pb n="33" facs="tcp:176253:19"/> and fortie nights, he then waxed hungry: which occasion the De<g ref="char:EOLhyphen"/>uill taking hold of, came to as<g ref="char:EOLhyphen"/>sault or tempt him, saying: <hi>If thou be the sonne of God, command</hi>
+                  <note place="margin">Mat. 4.</note>
+                  <hi>that these stones bee made bread.</hi> As who would say: Thou hast fasted a long time, and now are hungry: heere thou art in a wil<g ref="char:EOLhyphen"/>dernesse, where no food can bee gotten: thy father seemeth vt<g ref="char:EOLhyphen"/>terly to haue forsaken thee: wher<g ref="char:EOLhyphen"/>fore rely no longer vpon him; but shift for thy selfe, and if thou be the sonne of God, command these stones to be made bread to satisfie thine hungry appetite. Indeed, true it is, that Christ took vnto him the shield of faith and manfully withstood this assault; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e both knew and belieued that man did not liue by bread onely, but by euery word that procee<g ref="char:EOLhyphen"/>deth out of the mouth of God. But how few are there which
+<pb n="34" facs="tcp:176253:20"/> haue, grace to follow this exam<g ref="char:EOLhyphen"/>ple of our Captaine? Abraham (we see) though the father of the <note place="margin">Gen. 20.</note> faithfull, yet forgat to take vnto him the shield of faith, being as he thought in danger of loosing his life▪ and put more confidence in a lye, than he did in God him<g ref="char:EOLhyphen"/>selfe. And when he was deman<g ref="char:EOLhyphen"/>ded the reason hereof, he said▪ I thought, surely the feare of God is not: in this place. What nee<g ref="char:EOLhyphen"/>ded Abraham to care, whether the feare of God were in that place or not; had he considered that the power of God was in that and all other places; If m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n doe not feare God, they teach vs by their example much lesse to feare men. But indeed, this is the frailty of vs all: for what is the matter, wherefore being sicke, or in want, &amp;c. wee run to sorcerers, fall to stealing, and seeke to re<g ref="char:EOLhyphen"/>lieue our selues by vnlawfull
+<pb n="35" facs="tcp:176253:20"/> meanes; but onely because wee cast away the shield of faith, and distrust the goodnesse of that God, who is onely good, yea goodnesse it selfe? I know well what flesh and blood are heere <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ont to say for themselues: namely, that they doe not see by reason how they should escape that danger, depending onely on Gods prouidence, and vsing law<g ref="char:EOLhyphen"/>full meanes. But (o man) what art thou, that thus bindest the hands of thy God, and restrai<g ref="char:EOLhyphen"/>nest his power? Wil he (thinkest thou) bee beholding to the De<g ref="char:EOLhyphen"/>uill for the safegard of his chil<g ref="char:EOLhyphen"/>dren? It is all one with him to saue without means as by means: and how dost thou know, whe<g ref="char:EOLhyphen"/>ther hee then intendeth miracu<g ref="char:EOLhyphen"/>lously to relieue thee, (as hee fed Elijah, and deliuered Peter out <note place="margin">3. King. 17. Act: 12.</note> of prison) when thou doest not see by reason how it should come
+<pb n="36" facs="tcp:176253:21"/> to passe? But now, rather than God should thus doe, and there<g ref="char:EOLhyphen"/>by make his power knowen, whereby men might be induced to glorifie his name; thou wilt preuent him by seeking helpe at the Deuils hands. What an in<g ref="char:EOLhyphen"/>tollerable iniurie is this to Al<g ref="char:EOLhyphen"/>mightie God? Lord lay not this sinne to our charge at that day; but grant vnto vs thy grace, in all our wants and necessities to take vnto vs the shield of faith, put our trust in thee, and depend on<g ref="char:EOLhyphen"/>ly on thy prouidence.</p>
+               <p>A second sort of men, vnto whom I would most specially commend this weapon, are those which labour vnder the heauie burthen of their sins, and thinke their temptations to drunken<g ref="char:EOLhyphen"/>nesse, whoredome, pride, coue<g ref="char:EOLhyphen"/>tousnesse, reuenge, and the like, so strong; as that they shal hard<g ref="char:EOLhyphen"/>ly, if euer, bee able to ouercome
+<pb n="37" facs="tcp:176253:21"/> them. Indeed, that hardly, it must not seeme strange; for as may appealle by that is said be<g ref="char:EOLhyphen"/>fore, wee haue a dangerous ene<g ref="char:EOLhyphen"/>mie to deale withall: but yet, let to man cast away the shield of faith, and vtterly despaire of vi<g ref="char:EOLhyphen"/>ctorie in the end. Was not the seed of the woman promised; which should <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>se the Serpents head? Who also hath bruised its for when hee had sent forth his Captaines, I mean, his Apostles, and other Disciples, to preach the Gospell of the kingdome; among whom were the two sons of thunder, <hi>hee saw Satan fall</hi>
+                  <note place="margin">Luk. 10. Reuel. 12</note>
+                  <hi>downe from heauen like lightning</hi> before the thunder. Againe, S<seg rend="sup">t</seg>. Iohn saw a battel in heauen: Mi<g ref="char:EOLhyphen"/>thael &amp; his Angels fought with the Dragon and his Angels, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>reuailed against them. Indeed, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e not to thinke, that Micha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>l (by interpretation, <hi>who is as</hi>
+                  <pb n="38" facs="tcp:176253:22"/>
+                  <hi>God?)</hi> or Christ and the good Angels did then skirmish in the aire with the Deuill and those wicked Angels: if any man so imagineth, hee is deceiued; hee dreameth as it were, for this was a vision onely. But by this vision▪ as by the place of Scripture be<g ref="char:EOLhyphen"/>fore alledged, is shewed the vi<g ref="char:EOLhyphen"/>ctorie of our Captaine ouer sin and Satan, vnder whose banner wee manfully fighting shall like<g ref="char:EOLhyphen"/>wise ouercome, as sundry of Christs faithfull souldiours haue found by experience, and among others S. Augustine, who telleth vs asmuch of himselfe before his conversion▪ Surely, when all the Deuils other fiery darts are quen<g ref="char:EOLhyphen"/>ched, I meane, I when a man by the grace of God doth fully purpose in his heart to forsake his whordome, drunkennes, &amp;c▪ then commonly will the Enemie striue to perswade him, that he is
+<pb n="39" facs="tcp:176253:22"/> so wholly giuen to these enormi<g ref="char:EOLhyphen"/>ties, as that it were in vaine for him to purpose any amendment, hee doth but kicke against the pricke, and euen striue against the streame. But assure thy selfe (deare brother) if thou canst re<g ref="char:EOLhyphen"/>sist this temptation, and belieue thou shalt haue the victory, thou shalt finde that saying of thy Ma<g ref="char:EOLhyphen"/>ster true; <hi>All things are possible to</hi>
+                  <note place="margin">Mar. 9.</note>
+                  <hi>him that belieueth.</hi> Who would haue thought that little Dauid with a sling and a stone should haue conquered that mighty gi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, being armed from top to <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>? And yet we know how soon hee preuailed: for indeed what said <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e? <hi>Thou commest to me with</hi>
+                  <note place="margin">1. Sam. 1</note>
+                  <hi>a sword, a speare, and a shield; but I come vnto thee in the name of the Lord of Hostes.</hi> And at another time: <hi>They came about</hi>
+                  <note place="margin">Psal. 11</note>
+                  <hi>mee like bees; but they were quen<g ref="char:EOLhyphen"/>ched as a fire of thornes; for in</hi>
+                  <pb n="40" facs="tcp:176253:23"/>
+                  <hi>the name of the Lord I shall destroy them.</hi> Howsoeuer then of thy selfe, thou art not able to encoun<g ref="char:EOLhyphen"/>ter with thine enemies; yet goe against them in the name of the Lord, and more shall hold with thee than are against thee: comè their darts, their temptations, a<g ref="char:EOLhyphen"/>bout thee as thicke as bees, yet shall they not fasten the <hi>sting of death</hi> in thee, but in the name of <note place="margin">Cor. 15.</note> the Lord, thou shalt ouercome them. Our helpe standeth in the name of the Lord, which hath made heauen and earth, both soule and bodie, and knoweth how to deliuer both out of my their extremities whatsoeuer on<g ref="char:EOLhyphen"/>ly, let vs, whether afflicted in bo<g ref="char:EOLhyphen"/>dy or minde, take vnto vs the <hi>Shield of faith,</hi> put our trust in him, and make him our shield and buckler.</p>
+            </div>
+            <div type="part">
+               <pb n="41" facs="tcp:176253:23"/>
+               <head>Of the sword of the Spirit.</head>
+               <p>THis weapon our Sauiour Christ being tempted by the Deuill tooke vnto him three times together: for the Deuill assaulting him thrise on a row, he thrise resisted his assaults with the word of God, <hi>It is written &amp;c.</hi>
+                  <note place="margin">Mat. 4.</note> And surely it were to bee wished that we in these daies both could and would follow this example of our Lord and Master. Indeed, there is happily some difference betweene the Deuils tempting of Christ and vs, as touching the manner, for it should seeme that hee tempted Christ by word of mouth, as likewise hee did our mother Eue heretofore; whereas hee tempteth vs commonly by suggesting euill thoughts to our mindes: but yet I see no reason, wherefore wee may not likewise
+<pb n="42" facs="tcp:176253:24"/> withstand our aduersarie with <hi>the sword of the Spirit, the word of God.</hi> As suppose, that a man be tempted to distrust Gods proui<g ref="char:EOLhyphen"/>dence, and therevpon to fall to stealing, coosening, oppressing of the poore, and the like: let him presently call to minde, how that it is written, <hi>God clotheth the</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at. 6.</note>
+                  <hi>grasse of the field; and feedeth the foules of the aire; and are not we better than these?</hi> Againe: <hi>It not the life more worth than meat, and the bodie than rayment?</hi> Seing then God hath freely giuen vnto eue<g ref="char:EOLhyphen"/>ry man both life and bodie; how should he not likewise giue meat and rayment, which are of lesse value? If a man be tempted to couetousnesse and confidence in worldly wealth: then let him re<g ref="char:EOLhyphen"/>member how that it is written; <hi>Mans life standeth not in the a<g ref="char:EOLhyphen"/>bundance of the things that hee pos<g ref="char:EOLhyphen"/>sesseth.</hi> And againe; <hi>Thou foole,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uk. 12.</note>
+                  <pb n="43" facs="tcp:176253:24"/>
+                  <hi>this night shall they take away thy soule from thee, and then whose shall that be which thou hast gathe<g ref="char:EOLhyphen"/>red together?</hi> If a man be tempted to presume of Gods mercy, and thereupon boldly to commit sinne, to steale, to bee drunken, &amp;c. then let him straightway thinke within himselfe: it is sure<g ref="char:EOLhyphen"/>ly written, <hi>The soule that sinneth shall dye the death.</hi> Againe: <hi>Ʋe<g ref="char:EOLhyphen"/>rily</hi>
+                  <note place="margin">Mat. 12.</note>
+                  <hi>I say vnto you, that at the day of iudgment men shall giue accounts of euery idle word that they speake.</hi> If a man, seeing the grieuousnesse of his sinnes, bee tempted to despaire: then let him call to minde, how that it is written; <hi>Gods mercy is infinite: hee deligh<g ref="char:EOLhyphen"/>teth</hi>
+                  <note place="margin">2. Cor. 1.</note>
+                  <hi>in mercy;</hi> and no maruell, for hee is <hi>the Father of mercies,</hi> and a father wee know delights in his children. Thus you see, how after the example of our Captaine, wee may resist
+<pb n="44" facs="tcp:176253:25"/> the Deuill with the <hi>sword of the Spirit.</hi>
+               </p>
+               <p>This being so, what may wee thinke of our Papists, that goe a<g ref="char:EOLhyphen"/>bout to bereaue the common people of this so needfull a wea<g ref="char:EOLhyphen"/>pon; and in steed of the holy Scriptures, Gods word, send them to dumbe Images, calling them <hi>Lay-mens bookes?</hi> For see<g ref="char:EOLhyphen"/>ing these <hi>Images haue hands, and handle not,</hi> neither can defend themselues against Spiders and such like vermin; how should they teach vs to handle the sword of the Spirit, and defend our selues against our spirituall ad<g ref="char:EOLhyphen"/>uersarie? The Papists say, in dis<g ref="char:EOLhyphen"/>grace of this weapon, that the Deuill assaulted Christ there<g ref="char:EOLhyphen"/>with. Indeed, we finde, that when our Sauiour had resisted the De<g ref="char:EOLhyphen"/>uill <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uk. 4.</note> twice with the word of God: how that hee then would needes take it into his hands likewise,
+<pb n="45" facs="tcp:176253:25"/> hoping to wound Christ with his owne weapon, and came vp<g ref="char:EOLhyphen"/>on him with, <hi>It is written, that hee sball giue his Angels, &amp;c.</hi> But they should haue considered, that our Sauiour would not let goe his weapon for all that, but euen then also resisted him with, <hi>It is written, Thou shalt not tempt the Lord thy God.</hi>
+               </p>
+               <p>To let the Papists alone: what may wee well thinke of many a<g ref="char:EOLhyphen"/>mongst vs in these daies, which haue no more care to come to the Church, to heare and read the holy Scriptures? Is it because they thinke themselues skilfull enough to handle the sword of the Spirit already? If any man be wise in his owne opinion, let him become a foole, that so hee may be wise: if any thinkes him<g ref="char:EOLhyphen"/>selfe skilfull enough already, let him learne to know his owne vn<g ref="char:EOLhyphen"/>skilfulnesse, that so in time hee
+<pb n="46" facs="tcp:176253:26"/> may become skilfull in some measure. But, I feare me, I know what the matter is: the sword of the Spirit hath not as yet woun<g ref="char:EOLhyphen"/>ded them; for were they once <hi>pricked in their hearts</hi> therewith (as they were vnto whom S<seg rend="sup">t</seg>. Pe<g ref="char:EOLhyphen"/>ter preached the word) they would I make no question, haue a better opinion of it, than now they haue. God grant, that they may once feele the vertue of this <hi>two-edged sword</hi> cutting back<g ref="char:EOLhyphen"/>ward, that so they may more carefully learne how to vse it for<g ref="char:EOLhyphen"/>ward against their aduersarie the Deuill.</p>
+            </div>
+            <div type="part">
+               <head>Of Prayer.</head>
+               <p>AS we read, that Christ being set vpon by the Tempter, thrise with stood him with the sword of the Spirit: so likewise doe we finde, that S<seg rend="sup">t</seg>. Paul in the
+<pb n="47" facs="tcp:176253:26"/> like case had recourse three times vnto this weapon. <hi>There was giuen vnto me</hi> (saith he) <hi>a prick</hi>
+                  <note place="margin">2. Cor. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+                  <hi>in the flesh, the messenger of Satan to buffet me, &amp;c. and I besought the Lord thrise, that it might depart from me,</hi> or flee away. Indeed, this weapon of all others I would most specially commend vnto euery Christian souldiour; for I know whereof we be made, how that wee are but flesh and blood, and our aduersarie is a Spirit, whose temptations are strong, whose darts are fiery and pierce easily. But let our aduersarie be a Spirit: wee know that the holy Ghost is the Spirit of power; &amp; <hi>If</hi> (saith Christ) <hi>ye can giue good gifts vnto your children; how much</hi>
+                  <note place="margin">Luk. 11<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+                  <hi>rather shall your heauenly Father giue the holy Ghost to those that aske it of him?</hi> Let our aduersarie be a Lion; neuer so strong: we know that Christ our Captaine is the
+<pb n="48" facs="tcp:176253:27"/>
+                  <hi>Lion of the Tribe of Iudah;</hi> and if we aske, of his fulnesse wee shall <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eu. 5.</note> receiue, that being strengthned in the inner man, we shall be able to encounter with this roaring Lion. Let him againe be an old Serpent, neuer so politicke and craftie: we know, that Christ our leader is the <hi>wisdome of his Fa<g ref="char:EOLhyphen"/>ther;</hi> and if we aske of his fulnes wee shall receiue, that being be<g ref="char:EOLhyphen"/>come wise as Serpents, wee shall not be deceiued by this old Ser<g ref="char:EOLhyphen"/>pent, and led out of the right way.</p>
+               <p>When the Deuill would needs haue tried the Disciples to the vttermost; our Sauiour told Peter of it, and said; <hi>Behold Sa<g ref="char:EOLhyphen"/>tan hath desired you to winnow you</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>k. 22.</note>
+                  <hi>as wheat;</hi> but <hi>I haue praied for thee that thy faith faile not.</hi> Be<g ref="char:EOLhyphen"/>loued, Satan is still Satan, that is, an aduersary to mankind: hee seeketh as earnestly to winnow
+<pb n="49" facs="tcp:176253:27"/> Christs faithfull Disciples as wheat at this day as euer he did. Whereas then our Lord and Master sometimes praied for Peter and no doubt for the rest of his Disciples: let now euery true Disciple learne to pray for himselfe, lest his enemy tri<g ref="char:EOLhyphen"/>umph ouer him. For surely this praier is it, which hardneth the shield of faith, that the Deuils fi<g ref="char:EOLhyphen"/>ery darts doe not pierce it. This praier againe is it, which giueth an edge to the sword of the spirit, that therewith wee may wound our spirituall aduersary. Though the Shield of faith, &amp; the sword of the Spirit, will not many times serue the turne; as what true Christian hath not to his great griefe often found by experi<g ref="char:EOLhyphen"/>ence? Yet I am verily perswaded, there is scarce that man, which being set vpon by the Deuill, and tempted to lye, steale, forsweare,
+<pb n="50" facs="tcp:176253:28"/> oppresse, &amp;c. that hath bowed his knees, and falling downe as<g ref="char:EOLhyphen"/>ked help of God; but God hath bowed the heauens, and come downe to succour him in his di<g ref="char:EOLhyphen"/>stresse. Peter, though one of the chiefe Apostles; yet may denie his Master, &amp; with swearing, and cursing too. Dauid, though a man after Gods owne heart; yet may much wrong a man made after Gods owne likenesse: hee may commit adulterie, and take away his wife: he may make him drunken, &amp; take away his reason: he may commit murther, &amp; take away his life. But if Peter or Da<g ref="char:EOLhyphen"/>uid being tempted to sinne, had had so much grace as presently to haue run vnto God by prayer; I can hardly beleeue, they had so soone been ouertaken, or recei<g ref="char:EOLhyphen"/>ued such a shamefull ouerthrow. When Moses lifted vp his hands, Israel preuailed: but <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d. 17.</note>
+                  <pb n="51" facs="tcp:176253:28"/> when hee let his hands downe, then indeed Amaleck had the vpper hand. To conclude then this point: of all the weapons mentioned by S<seg rend="sup">t</seg>. Paul Eph. 6. I most commend vnto you these three, <hi>the shield of faith; the sword of the Spirit, and Prayer,</hi> as being most worthy (I take it) alwayes to be had in a readinesse: and of the three, this last, I meane Pray<g ref="char:EOLhyphen"/>er, as being chiefe I thinke a<g ref="char:EOLhyphen"/>mongst the three worthyes. <hi>Watch, and pray, lest yee enter into</hi>
+                  <note place="margin">Mar. 14<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+                  <hi>temptation.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>2. <hi>When we are to beginne to resist.</hi>
+               </head>
+               <p>THe second point in the man<g ref="char:EOLhyphen"/>ner of our resistance, is when we are to beginne to withstand our aduersary: for indeed the time is principally to bee obser<g ref="char:EOLhyphen"/>ued in all our enterprises, and of
+<pb n="52" facs="tcp:176253:29"/> all others most especially in wa<g ref="char:EOLhyphen"/>ging of warre. As touching the time then when we are to begin this fight, it is, In the beginning: and this twofold. First, in the be<g ref="char:EOLhyphen"/>ginning of our liues: and thus in the daies of the Israelites, God commanded to circumcise the eighth day: before the children knew good or euill, they must submit themselues vnto God, and promise obedience vnto his commandements. Thus againe we vse to baptise our children ve<g ref="char:EOLhyphen"/>ry young, where they are signed with the signe of the crosse in to<g ref="char:EOLhyphen"/>ken that hereafter they shall fight manfully vnder Christs banner against the world, the flesh, and the Deuill. Indeed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t was a custome in S. Augustines time to deferre their baptisme vntill twenty yeeres or vpwards (as is before mentioned,) That so they might with greater ho<g ref="char:EOLhyphen"/>nestie
+<pb n="53" facs="tcp:176253:29"/> (as they thought) follow their owne hearts desire, and wallow in all kind of abominati<g ref="char:EOLhyphen"/>ons: but this custome that god<g ref="char:EOLhyphen"/>ly father disliketh and worthily. For, <hi>Quo semel est imbuta recens,</hi> &amp;c. looke with what liquor a ves<g ref="char:EOLhyphen"/>sell is seasoned whiles it is yet greene, it will rellish of the same a long time after: and doe not wee see by daily experience, that what way a young plant is bow<g ref="char:EOLhyphen"/>ed, it will grow that way when it is old? If whiles we are yet young plants, wee be bowed the right way; then commonly when wee are old, wee bow downe to God, and resist the temptations of the Deuill: but if we are then bowed the wrong way; wee afterward, euen to our liues end, vsually how downe to Mammon, and re<g ref="char:EOLhyphen"/>sist the good inspirations of Gods Spirit. Wherefore, let those which haue young chil<g ref="char:EOLhyphen"/>dren,
+<pb n="54" facs="tcp:176253:30"/> take heed they bring them vp in the instruction and infor<g ref="char:EOLhyphen"/>mation of the Lord. Iosephus reporteth of the children among the Iewes, that no sooner they could speake almost, but they had Moses Jaw at their fingers end, they were presently taught to handle the sword of the Spirit. I greatly feare mee, lest those young children of the Iewes shal one day rise vp in iudgement, and condemne, not onely the young, but the old children also among Christians; who be they neuer so old, yet remaine still children in vnderstanding, and know not how so much as to strike one blow with this weapon aright, and as they ought to doe. Againe, let those which are yet young, take good heed vnto themselues betimes. <hi>I haue writ<g ref="char:EOLhyphen"/>ten vnto you young men</hi> (saith Saint <note place="margin">Ioh. 2. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Iohn) <hi>because yee are strong,</hi> in
+<pb n="55" facs="tcp:176253:30"/> faith; <hi>and the word of God abideth in you,</hi> you are armed with the sword of the Spirit; <hi>and yee haue ouercome that wicked out,</hi> the De<g ref="char:EOLhyphen"/>uill. But S. Iohn and his young men are dead long agoe: nay ra<g ref="char:EOLhyphen"/>ther, I write vnto you young men, because you are weake, and vnarmed, without either the shield of faith or sword of the Spirit: and are so farre from o<g ref="char:EOLhyphen"/>uercomming that wicked one, as that you thinke your selues as yet free and at your libertie to conti<g ref="char:EOLhyphen"/>nue his seruants for a season. If we now speake to you of fighting against the vaine pleasures of the world, the lusts of the flesh, and the like: you put vs off to old age, when <hi>the strong men shall bow</hi>
+                  <note place="margin">Eccl. 12.</note>
+                  <hi>themselues,</hi> and when you are not commonly so weake in body as in minde. But if you will needs be the Deuils seruants so long; take heed, lest he then challenge
+<pb n="56" facs="tcp:176253:31"/> you for his slaues, and so binde you hand and foot, as that you shall not be able so much as once to offer any resistance: surely, daily and lamentable experience teacheth no lesse.</p>
+               <p>Secondly, we must resist in the beginning of euery temptation thorowout the whole course of our liues: for it is easier to keepe the enemie foorth of the land, whiles he is without; than when he is once entred, to driue him backe againe. It is the policie of this old Serpent at the first to tempt a man to sinne once only; as once to steale, once to for<g ref="char:EOLhyphen"/>sweare, once to commit whore<g ref="char:EOLhyphen"/>dome, &amp;c. and a man shal thinke with himselfe; God be mercifull to me this once onely, and I will not doe the like againe for to gaine the whole world. But assure thy selfe; if the <hi>strong man</hi> once preuaile, he will twise as easie pre<g ref="char:EOLhyphen"/>uaile
+<pb n="57" facs="tcp:176253:31"/> the second time, and thrise as easie the third time, and the oftner still the more easily: vntill at length it grow to a custome, and so past recouery. <hi>Can the</hi>
+                  <note place="margin">Ier. 13.</note>
+                  <hi>blacke Moore</hi> (saith Ieremie) <hi>change his skinne? or the Leopard his spots? Then may yee doe good, that are accustomed to doe euill.</hi> As who would say: It is as easie for a blacke Moore to change his skinne, and a Leopard his spots; as it is for a man accustomed to euill, to learne euer to doe well: and were not this then a miracle? The reason is euident: for, <hi>Con<g ref="char:EOLhyphen"/>suetudo peccandi tollit sensum pecca<g ref="char:EOLhyphen"/>ti;</hi> A custome in sinning taketh away the sense of sinne; so that what at the first seemed abomi<g ref="char:EOLhyphen"/>nable, in time will seeme no sinne at all, or at least wise very tolera<g ref="char:EOLhyphen"/>ble. Nay, as S. Augustine telleth vs, <hi>Consuetudo est fabricata natu<g ref="char:EOLhyphen"/>ra;</hi> Custome is a framed nature:
+<pb n="58" facs="tcp:176253:32"/> one nature we bring with vs into the world, and another euery man frameth vnto himselfe by a continuall custome. How diffi<g ref="char:EOLhyphen"/>cult now must it needs be for the naturall man to lay away nature? Surely, <hi>Naturam expellas furcâ licet, vsque recurret.</hi> Yeeld not then by subiection to the Deuill, no not once onely: though the <hi>strong man</hi> would make thee be<g ref="char:EOLhyphen"/>leeue, that if he may be suffered once to get into the house, he will be gone by and by, yet take heed lest he claime possession of that roome euer after.</p>
+               <p>Yea, at the first the Deuill will not commonly tempt a man to any great villany: <hi>Nemo repentè fit turpissimus,</hi> no man becom<g ref="char:EOLhyphen"/>meth extreme wicked on the sud<g ref="char:EOLhyphen"/>den, but by degrees, by little and little. And the first Ahab shall but <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> too greedily couet Naboths vineyard: though he be a king,
+<pb n="59" facs="tcp:176253:32"/> he shall not goe about to wrest it from him by law, much lesse shall he take it from him by vio<g ref="char:EOLhyphen"/>lence: nay, he shall offer him a better for it, or else the worth of it in money. Who would haue thought a Deuill had beene heere? But Ahab knew too well the commodiousnes of Naboths vineyard, before hee knew well enough, whether Naboth were willing to leaue it, and what fol<g ref="char:EOLhyphen"/>lowed? Ahab tooke from Na<g ref="char:EOLhyphen"/>both both life and vineyard too without mony or mony-worth. At the first happily thou shalt be tempted onely to reade loue bookes: afterward thou shalt haue eies full of adulterie, and a mouth too: then shalt thou fall to wanton daliances: and the end is whoredome and adultery. A man hath iniured thee: should the Deuill at the first tempt thee to murder him? Hee hath no
+<pb n="60" facs="tcp:176253:33"/> hope to preuaile: wherefore at the first thou shalt onely thinke with thy selfe. Such a man hath wronged me; I will surely goe reason the matter with him: then shalt thou reason so long, till at length thou grow vnreasonable; and from reasoning thou shalt fall to railing, and from words to blowes, whereupon ensueth bloudshed, and murder some<g ref="char:EOLhyphen"/>times. We see what a great flame one little sparke doth kindle. If Dauid had knowen, whereunto his looking on a woman would haue brought him in the end, I perswade my selfe hee would haue turned away his eies from beholding vanitie. <hi>Principijs ob<g ref="char:EOLhyphen"/>sta;</hi> resist then in the beginning: consider that the Deuill is a Ser<g ref="char:EOLhyphen"/>pent, and if hee can get in his head, he will easily wring in his whole body, taile and all; and then take heed, lest he fasten the
+<pb n="61" facs="tcp:176253:33"/>
+                  <hi>sting of death</hi> in thee, whereof thou shalt hardly, if euer, be able to recouer. I end with that of S. Paul; <hi>Giue no place to the Deuill.</hi>
+                  <note place="margin">Eph. 4.</note>
+               </p>
+            </div>
+            <div type="part">
+               <head>3. <hi>Where wee must beginne to resist.</hi>
+               </head>
+               <p>EVery man is more addicted vnto some sinnes, than hee is to others <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>there is none but hath a right eie to bee pulled out; a right hand to be cut off, and cast away: the temptations of the Deuill are stronger with euery man some waies, than others a<g ref="char:EOLhyphen"/>gaine. It is now a profitable que<g ref="char:EOLhyphen"/>stion, where a man were best to beginne to resist the Deuils tem<g ref="char:EOLhyphen"/>ptations. And whereas some happily would giue counsell first to set vpon our lesser sinnes, the Deuils weakest temptations; and by degrees, hauing subdued them, to withstand his strongest
+<pb n="62" facs="tcp:176253:34"/> assaults, to redresse those sinne which are as our right hand vnto vs: I, for my part, am of a cleane, contrary minde in this matter. When on a time in a great as<g ref="char:EOLhyphen"/>semblie, a question was mooued touching reformation; a great part thought best to reforme the abuses which were rife among the common people first, and then consequently to see what was amisse among the nobilitie, and to redresse that in like man<g ref="char:EOLhyphen"/>ner afterward. But one stepping vp, said; <hi>Non à minoribus, sed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>oribus:</hi> for indeed, when su<g ref="char:EOLhyphen"/>periours are once wholly refor<g ref="char:EOLhyphen"/>med, inferiours are halfe; as who are ready to follow and imitate them, whereas the contrary i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> seldome seene.</p>
+               <p>What this man thought tou<g ref="char:EOLhyphen"/>ching the generall reformation of a Common-wealth; that I thinke touching the particular
+<pb n="63" facs="tcp:176253:34"/> reformation of euery priuate man: begin not with the lesser, but with the greater. It was poli<g ref="char:EOLhyphen"/>tikely done of the king of Aram, when he commanded his Cap<g ref="char:EOLhyphen"/>taines, saying; <hi>Fight neither with</hi>
+                  <note place="margin">1. King. 22.</note>
+                  <hi>small, nor great, saue against the king of Israel only.</hi> And doe wee not see, when Dauid had cut off Goliahs head, how the other Philistims betooke them to their heeles, and fled away, the Israe<g ref="char:EOLhyphen"/>lites ioifully pursuing them? My counsell then (gentle Reader) vnto thee is, that thou looke out, which way the Deuill is stron<g ref="char:EOLhyphen"/>gest with thee, and what sinne it is which thou art most giuen vn<g ref="char:EOLhyphen"/>to, which biddeth defiance as it were to all the good motions of Gods Spirit, whether it be coue<g ref="char:EOLhyphen"/>tousnesse, whoredome, drunken<g ref="char:EOLhyphen"/>nesse, pride, &amp;c. and then take vnto thee the sword of the Spirit, Gods word, which saith, that no
+<pb n="64" facs="tcp:176253:35"/> couetous person, whoremaster, &amp;c. shall inherit the kingdome of heauen. And therewith first cut off Goliahs head, be sure to make Goliah sure enough, neuer thinke him dead vntill his head be off: and then will it doe thine heart good to see, how thou maist triumph ouer the rascall souldiers; thou shalt be able to say of them, as one sometime said of his enemies, <hi>Veni, Vidi, Vici:</hi> thou shalt no sooner come vpon them, and see them with thine eies, but thou shalt ouer<g ref="char:EOLhyphen"/>come them. Whereas, if thou first spendest thy strength on the weaker Philistims, thy lesser sinnes, the Deuils weaker temp<g ref="char:EOLhyphen"/>tations, and findest some difficul<g ref="char:EOLhyphen"/>tie to master them; thy courage) will not only decrease, but thine enemies courage will also in<g ref="char:EOLhyphen"/>crease, and thou shalt be faine to encounter with euery Philistim:
+<pb n="65" facs="tcp:176253:35"/> for; what will euery one thinke? He hath indeed ouercome a wea<g ref="char:EOLhyphen"/>ker, but who knoweth, whether he can ouercome mee? Whatso<g ref="char:EOLhyphen"/>euer then thou be, that meanest to fight the Lords battell, goe in this thy might against Goliah himselfe, and the Lord shall be with thee thou valiant man.</p>
+               <p>But lest any should not well perceiue my meaning, it shall not he amisse to make it more plaine, that see I may be sure to conde<g ref="char:EOLhyphen"/>scend vnto the capacitie of the simplest. Some man then is most giuen vnto pride, the Deuill is strongest with him this way: and besides other iniquities accom<g ref="char:EOLhyphen"/>panying the same, as it were soul<g ref="char:EOLhyphen"/>diers their Captaine; such a one must needs spend much time idly euery morning in adorning the body, which might better be im<g ref="char:EOLhyphen"/>ploied in decking <hi>the hid man of</hi>
+                  <note place="margin">1. Pet. 3.</note>
+                  <hi>the heart</hi> (as the Apostle spea<g ref="char:EOLhyphen"/>keth)
+<pb n="66" facs="tcp:176253:36"/> I meane, in praier, reading, meditation, &amp;c. Againe, he must also spend much money vainly in buying out landish newfangled fopperies, as wee see they doe; which might better be laid out in feeding and clothing Christs poore, hungry and naked bre<g ref="char:EOLhyphen"/>thren. Should I now counsell this man, when the Deuill temp<g ref="char:EOLhyphen"/>teth him to spend his time and money so wickedly, to striue with the shield of faith, and other such like weapons, to quench these his fierie darts first of all? Without question, he should kicke against the pricke, and striue against the streame; hee should lose his la<g ref="char:EOLhyphen"/>bour. Nay rather, my counsell is, that he first set vpon his pride, remooue it, and then shall hee very easily spend both his time and money better: whereas it is euen vnpossible for him to doe either, pride standing in her full
+<pb n="67" facs="tcp:176253:36"/> strength; the mother will surely maintaine her daughters.</p>
+               <p>Another is most dangerously sicke of an ambitious humour: and then, as one that is desirous to clime higher, whatsoeuer is beneath him, that he must tread vpon, and thrust it downward to helpe himselfe vpward. Againe, whatsoeuer is aboue him, where<g ref="char:EOLhyphen"/>by he meaneth to clime, that hee must lay fast hold on, and whi<g ref="char:EOLhyphen"/>thersoeuer that boweth, he must bow, and still wholly applie him<g ref="char:EOLhyphen"/>selfe to the same. Hee shall bee euen constrained to play both the Lion in oppressing his infe<g ref="char:EOLhyphen"/>riours, and the fox in flattering his superiours: let him with stand his ambition, and then hee shall be able with no adoe to liue like a sheepe of Christs fold.</p>
+               <p>A third i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> euen taken <hi>captiue of</hi>
+                  <note place="margin">2. Tim.</note>
+                  <hi>the Deuill,</hi> and carried violently bound hand and foot vnto the
+<pb n="68" facs="tcp:176253:37"/> vaine pleasures of the world, the friendship wherof is enmitie with God: and, to instance in one for all, vnto this vnreasonable ga<g ref="char:EOLhyphen"/>ming. The attendants whereup<g ref="char:EOLhyphen"/>on are chasing, swearing, and sometimes cursing of his lucke or fortune: where vnder the name of blinde fortune he blind<g ref="char:EOLhyphen"/>ly and ignorantly curseth the prouidence of that God, whose eies are as cleare as the Sunne, so that the darknesse is no darknesse with him, but the night is as cleare as the day. My counsell now to this man is, that hee ga<g ref="char:EOLhyphen"/>ther his weapons about him, and first winne the field of Gaming the Deuils champion: it shall afterward bee very painfull for him to continue such a seruant vnder sinne, and so to chafe, sweare, and curse, as before hee did, and almost could not chuse but doe. The like might be said
+<pb n="69" facs="tcp:176253:37"/> of couetousnesse, whoredome, &amp;c.</p>
+               <p>I pray thee (deare brother) if this condition were proposed vnto thee, that wouldest thou enter into the kingdome of hea<g ref="char:EOLhyphen"/>uen, thou must enter maimed thereinto, and cut off not onely thy right hand, but euery finger also of the same, and cast them from thee: wouldest thou bee so mad as to beginne with thy little finger, and then with the next, and so in order with the rest; and last of all to cut off thy right hand? Shouldest thou not by this meanes endure farre greater torment, than otherwise thou needest? As one then that would haue thee not only to enter into heauen, but with as little paine as may be; as one that would haue thee not only to ouercome the Deuill, but easily too: I counsell, <hi>Beginne not with the lesser, but with</hi>
+                  <pb n="70" facs="tcp:176253:38"/>
+                  <hi>the greater.</hi> Cut off thy right hand first, and then shalt thou cut off any finger afterward with<g ref="char:EOLhyphen"/>out any paine at all: strike at the root, and the branches shall fall to the ground of their owne ac<g ref="char:EOLhyphen"/>cord: first cut off Goliahs head, and the other Philistims shall betake them to their heeles, and flee away. Thus I come to our Apostles encouragement, which is</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>And he will flee from you.</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Apo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>les encou<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gement.</note>
+               </head>
+               <p>IF we resist, if we manfully with<g ref="char:EOLhyphen"/>stand our aduersarie the De<g ref="char:EOLhyphen"/>uill, wee need not doubt of good successe in this battell, wee shall obtaine the victorie, and cause our enemie to flee away; whereof we haue a president in our Cap<g ref="char:EOLhyphen"/>taine Christ Iesus. For hauing quenched the Deuils fierie dats, the text saith, <hi>hee departed from</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k. 4. 13.</note>
+                  <pb n="71" facs="tcp:176253:38"/>
+                  <hi>him.</hi> It is not said, that Christ departed from the Deuill, as though hee feared his darts any thing at all: but that the Temp<g ref="char:EOLhyphen"/>ter departed from him, as hauing small hope to preuaile. And this example of our Master, if wee haue grace to follow, the like suc<g ref="char:EOLhyphen"/>cesse shall follow I doubt not; he will flee from vs in like man<g ref="char:EOLhyphen"/>ner.</p>
+            </div>
+            <div type="part">
+               <head>1. <hi>Not presently.</hi>
+               </head>
+               <p>BVt yet, let no man deceiue himselfe, as though his ene<g ref="char:EOLhyphen"/>mie would presently betake him to his heeles: not so, hee beares no cowards heart, to turne his backe after one blow giuen. Nay, thou shalt finde (gentle Reader) vnlesse thou slauishly yeeldest to his temptations, that he is not in vaine termed a Lion, as hauing indeed a Lions courage: so that
+<pb n="72" facs="tcp:176253:39"/> sometimes that is verified be<g ref="char:EOLhyphen"/>tweene the holy Ghost and him, which is said of the house of Da<g ref="char:EOLhyphen"/>uid and Saul, <hi>There was long war</hi>
+                  <note place="margin">Sam. 3.</note>
+                  <hi>betweene the house of Saul and the house of Dauid,</hi> before the victory inclined to either part. And this is most commonly seene in that first and great combat: I meane, when first a man perceiuing his miserable thraldome vnder Sa<g ref="char:EOLhyphen"/>tan (whose slaues wee are all by nature) and the exceeding great danger hee liues in by meanes thereof; beginneth, through the good motions of Gods Spirit, to draw his necke out of the collar, and to deny subiection vnto him any longer. S. Augustine repor<g ref="char:EOLhyphen"/>teth of himselfe, that before his conuersion hee felt a great and long combat within him, be<g ref="char:EOLhyphen"/>tweene the flesh and the Spirit, betweene God drawing him on the one side vnto amendment of
+<pb n="73" facs="tcp:176253:39"/> life, and the world, the flesh, and the Deuill, seeking to hold him backe on the other side in that wicked course of life, which hee had led hitherto. In this con<g ref="char:EOLhyphen"/>flict (saith that godly Father) what did I not say against my selfe? How did I beat, and euen whip mine owne soule, to make her follow thee O Lord? But she held backe, she refused and excu<g ref="char:EOLhyphen"/>sed her selfe: and when all her arguments were ouerthrowen, she remained trembling and fea<g ref="char:EOLhyphen"/>ring as death to be restrained of her loose custome of sinne. Af<g ref="char:EOLhyphen"/>ter this, all his pleasures past re<g ref="char:EOLhyphen"/>presented themselues before his eies, saying; What, wilt thou de<g ref="char:EOLhyphen"/>part from vs, and shall wee bee with thee no more for euer, after this moment? Shall it not bee lawfull for thee to doe this or that any more heereafter? And then (saith Saint Augustine) O
+<pb n="74" facs="tcp:176253:40"/> Lord, turne from the minde of thy seruant, to thinke of that which they obiected to my soule: what filth, what shamefull pleasures did they lay before mine eies? Moreouer, the De<g ref="char:EOLhyphen"/>uill would needs perswade him, that it was vnpossible for him to ouercome his passions. At length, the battell still increa<g ref="char:EOLhyphen"/>sing, hee said to God. O Lord, how long wilt thou suffer mee thus? How long, how long shall I say, to morrow, to morrow? Why should I not doe it now? Why should there not be an end of my filthie life, euen at this houre? Thus at length after a long combat and many hot skir<g ref="char:EOLhyphen"/>mishes, through the helpe of his God, and by the power of his might, his soule escaped as a bird out of the snare of the fow<g ref="char:EOLhyphen"/>ler, the snare was broken, and he was deliuered.</p>
+               <pb n="75" facs="tcp:176253:40"/>
+               <p> The Deuill (I say) will not presently giue ouer in the first &amp; great combat: if Moses would bring the Israelites out of Egypt, Pharaoh will not yeeld thereto for a long time, and no sooner shall they set one foote out of his kingdom, but he will follow with his horsemen and chariots to bring them backe againe with all speed. Although indeed this is also verified many times in those sundry and manifold conflicts which happen in our life time af<g ref="char:EOLhyphen"/>terward. When the messenger <note place="margin">2. Cor. 12▪</note> of Satan was sent to buffet Saint Paul, hee prayed to the Lord once, and he would not depart: he prayed the second time, nei<g ref="char:EOLhyphen"/>ther would he stirre a foote: and though he prayed the third time, yet, as may bee gathered by the answer God made him, the De<g ref="char:EOLhyphen"/>uill would not flee away notwith<g ref="char:EOLhyphen"/>standing. And what true souldi<g ref="char:EOLhyphen"/>our
+<pb n="76" facs="tcp:176253:41"/> of Christ is there, which knoweth not this to bee true by daily experience? The reasons heereof are two principally: the one is yeelded by S<seg rend="sup">t</seg>. Paul, ver: 7. <hi>Lest I should be exalted out of mea<g ref="char:EOLhyphen"/>sure, &amp;c.</hi> The other, by God himselfe, vers: 9. <hi>My grace is sufficient for thee; for my power is made perfect through weaknesse.</hi> It pleaseth that God, who is able to enable his seruants to put the ad<g ref="char:EOLhyphen"/>uersarie to foyle out of hand, to suffer him neuerthelesse to con<g ref="char:EOLhyphen"/>tend <hi>dubio Marte</hi> for a time: partly, that so his grace may be magnified, whose power in vs ap<g ref="char:EOLhyphen"/>peareth to bee by so much the greater, by how much our owne is acknowledged to bee lesser: partly againe, to teach vs that good lesson <hi>Nosce teipsum,</hi> to know our selues in some good measure, that so we may be truly humbled, when we see aswel what
+<pb n="77" facs="tcp:176253:41"/> wee want, as what we haue recei<g ref="char:EOLhyphen"/>ued. For indeed in this world we receiue only <hi>the first fruits of the</hi>
+                  <note place="margin">Rom. 8.</note>
+                  <hi>spirit,</hi> and not the tenthes: wher<g ref="char:EOLhyphen"/>as many of vs are no sooner en<g ref="char:EOLhyphen"/>tred into Christs campe, I mean, truly sanctified; but presently, as though we had receiued the <hi>Spi<g ref="char:EOLhyphen"/>rit of power</hi> in the greatest mea<g ref="char:EOLhyphen"/>sure, and were euer fed to the full with abundance of spirituall gra<g ref="char:EOLhyphen"/>ces, we thinke our selues strong inough and wel able to goe vpon the Lion and Serpent, &amp; to tread Satan vnder foot at our pleasure. But (alas) wretched men that we are, how often doe wee prooue the contrarie by wofull experi<g ref="char:EOLhyphen"/>ence in the course of our liues af<g ref="char:EOLhyphen"/>terward.</p>
+            </div>
+            <div type="part">
+               <head>2. <hi>Not for euer.</hi>
+               </head>
+               <p>SEcondly though the Deuill will at length flee away, yet not for euer: but still retaines <hi>a<g ref="char:EOLhyphen"/>nimum</hi>
+                  <pb n="78" facs="tcp:176253:42"/>
+                  <hi>revertendi,</hi> a mind to re<g ref="char:EOLhyphen"/>turne when occasion serueth. He departed from Christ, as wee read: but what addeth the Euan<g ref="char:EOLhyphen"/>gelist. <hi>When all the tentation was ended, the Deuill departed from him for a little season:</hi> Onely, <hi>For</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uk. 4. 13.</note>
+                  <hi>a little season.</hi> Indeed, we do not find any mention in the Scrip<g ref="char:EOLhyphen"/>tures of his returne: but yet, as Iesus did many things which are not written in that booke; so <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oh. 20. 30</note> (for ought we know) he suffred many things also at the hands of Satan by his tentations, and a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the hands of his instruments; the Scribes and pharises, by repro<g ref="char:EOLhyphen"/>ches &amp; other contumelies which are not written in that booke neither. Surely these words <hi>(for a little season) doe seeme</hi> to imply his returne after a certaine space. But whether hee set vpon our Captaine any more, or not, with<g ref="char:EOLhyphen"/>out question he will not so giue
+<pb n="79" facs="tcp:176253:42"/> his souldiers ouer: for though he cannot preuaile at one time, yet he thinkes he may at another.</p>
+               <p>Now S<seg rend="sup">t</seg>. Peter will rather dye, than denie his Master: and ac<g ref="char:EOLhyphen"/>cording <note place="margin">Mat. 26.</note> to his promise will very valiantly adventure his life for his sake, though hee and his fel<g ref="char:EOLhyphen"/>lowes haue but two swords, and their enemies being many come also with many swords and wea<g ref="char:EOLhyphen"/>pons. But within a while the De<g ref="char:EOLhyphen"/>uill will bring it so to passe, that Peter shall euen tremble at the voyce of a silly vnarmed woman. Hee that now would rather dye than denie his Master, did liue notwithstanding to forswear him afterward. And suppose, that in these peaceable dayes of ours, the Deuill should tempt vs to giue the honour of the only true God vnto stocks and stones and dumbe images: I perswade my selfe, he should spedily be put to
+<pb n="80" facs="tcp:176253:43"/> flight by very many of vs; an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> were we asked, we would be read<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to promise rather to dye than to denie the Gospel of Christ Iesus. But if euer the Sunne doe arise againe vpon our Land, I greatly feare mee, most of vs will then yeeld to the Deuils temptation, and say, as one did in Queene Maryes daies. Who hauing in King Edwards time made the like promise as Peter did, and in the heat of persecution being put in minde thereof, answered; <hi>It is true, but I cannot burne:</hi> I thought so once indeed, but now I see, though I loue my Master well, yet I loue mine owne life better. Were they once as hot as fire in Gods cause, the Deuill in time maketh them as cold as water, so that for their liues they cannot burne; the fire is cleane put out, when the heat of the Sunne ri<g ref="char:EOLhyphen"/>seth vpon them.</p>
+               <pb n="81" facs="tcp:176253:43"/>
+               <p> Now S<seg rend="sup">t</seg>. Paul is ready not to <note place="margin">Act. 21.</note> be bound only, but to die also at Ierusalem for the name of the Lord Iesus: <hi>What doe you</hi> (saith he) <hi>weeping and troubling me?</hi> He is troubled with his friends, that would faine keepe him out of trouble. But when S<seg rend="sup">t</seg>. Paul com<g ref="char:EOLhyphen"/>meth to Ierusalem, and is com<g ref="char:EOLhyphen"/>manded <note place="margin">Act. 23.</note> to bee smitten contrarie to the law, by him that sate to iudge according to the law, he is not ready and willing to take a blow for the name of the Lord Iesus; but groweth impatient, &amp; speaketh euill of the ruler of the people. There are, which would excuse this his fact; but it is alto<g ref="char:EOLhyphen"/>gether vnexcusable: for though he knew him not to be the high Priest; yet, he knew him to be his iudge, as by his words is manifest, <hi>Thou sittest to iudge me, &amp;c.</hi> And whereas some say, that S<seg rend="sup">t</seg>. Paul did not reuile him, but only pro<g ref="char:EOLhyphen"/>nounce
+<pb n="82" facs="tcp:176253:44"/> the punishment of God against him: hee himselfe doth not so defend his fact; and vnles he had acknowledged it for are proch, wherefore should he pro<g ref="char:EOLhyphen"/>duce that place of Scripture, <hi>Thou shalt not speake euill of the Ruler of thy people?</hi> Hee might otherwise haue denied that hee did reuile; whereas he onely go<g ref="char:EOLhyphen"/>eth about to excuse himselfe, as not knowing that hee was high Priest. As Peter had his fall, so Paul stood not alwayes vp<g ref="char:EOLhyphen"/>right.</p>
+               <p>If the Deuill hath now temp<g ref="char:EOLhyphen"/>ted a man to iniurie his neigh<g ref="char:EOLhyphen"/>bour, and looseth his labour: then will he tempt another to in<g ref="char:EOLhyphen"/>iurie him, that so hee may repay blow for blow, railing for railing, and one iniurie for another. And whereas by the former at first he could not, by this means he hath often preuailed afterward.</p>
+               <pb n="83" facs="tcp:176253:44"/>
+               <p> Whiles we are yet young, and children as concerning malice and all kind of iniquitie: and it should then be said vnto any one of vs; Hereafter thou wilt prooue <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> common drunkard, a horrible <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>earer, an oppressor of thy poore brethren, &amp;c. I am per<g ref="char:EOLhyphen"/>swaded, he would answer, as Ha<g ref="char:EOLhyphen"/>zael answered the Prophet; tel<g ref="char:EOLhyphen"/>ling him, that he should rent in pieces women with child, and dash their young infants against the stones; <hi>Am I a dog</hi> (saith Hazael) <hi>that I should do this great</hi>
+                  <note place="margin">2. King. 8.</note>
+                  <hi>thing?</hi> Am I a dog, am I a cast<g ref="char:EOLhyphen"/>away, a reprobate, that I should euer blaspheme the name of my heauenly Father, that I should grinde the faces of my brethren, that I should so much wrong my selfe, as to drinke and be drun<g ref="char:EOLhyphen"/>ken, &amp;c? And yet in time, the De<g ref="char:EOLhyphen"/>uill so preuailes with many, that they doe as great, yea greater
+<pb n="84" facs="tcp:176253:45"/> things than these; and for all that (I feare me) thinke them<g ref="char:EOLhyphen"/>selues men still, and not changed with Nebuchadnezzar into the nature of sauage and brute beasts.</p>
+               <p>When wee haue heard Gods word against any sinne; and the Deuill should goe about to haue vs offend therein within a day, or weeke, or the like: wee would all of vs I thinke resist him with, <hi>It is written, Thou shalt not &amp;c.</hi> Wherefore, what thinks the De<g ref="char:EOLhyphen"/>uill with himselfe? The time will come ere it be long, when I shall steale the word out of their hearts, when I shall get the <hi>sword of the Spirit</hi> out of their hands, &amp; then setting vpon them, I shall obtaine the victorie without any resistance at all.</p>
+            </div>
+            <div type="part">
+               <pb n="85" facs="tcp:176253:45"/>
+               <head>3. <hi>He will try some other way.</hi>
+               </head>
+               <p>THirdly, though the Deuill tempting to any sinne, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>inding resistance, departeth <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ithout euer returning to tempt <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n like sort againe: yet we are to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>now, that he hath sundry darts of different properties, &amp; though one bee so dull that it cannot pierce the <hi>shield of faith,</hi> yet he can and will make triall what his fellow can doe. If the <hi>strong man <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>med</hi> cannot get into one room, he thinkes he may into another: though he cannot break thorow <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he wall into the house, yet hee <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>opes to steale in by the doore <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r window. Surely, it is not in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>aine that S<seg rend="sup">t</seg>. Paul willeth vs to <note place="margin">Ephes. 6. 18.</note>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ray with all manner of prayer: <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>or the aduersarie will assault vs <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll manner of waies at one time
+<pb n="86" facs="tcp:176253:46"/> or other. When tempting Christ to distrust his fathers proui<g ref="char:EOLhyphen"/>dence, and to prouide for him<g ref="char:EOLhyphen"/>selfe by turning stones into bread, hee was withstood with Gods word, <hi>It is written, &amp;c.</hi> the next time hee goes another way to worke, and saith; <hi>If thou be the sonne of God, cast thy selfe downe, &amp;c.</hi> As who would say: It is wel <note place="margin">Matt. 4. 6.</note> that thou so relyest vpon thy Father, as though he both could and would preserue thee without food: rely still vpon him, do not vse the meanes that hee hath or<g ref="char:EOLhyphen"/>deined, but cast thy selfe downe the next way, and feare not, thy father will keepe thee in safetie; especially, since he hath promi<g ref="char:EOLhyphen"/>sed, and it is written also, <hi>that hee will giue his Angels, &amp;c.</hi> This fie<g ref="char:EOLhyphen"/>rie dart being in like sort quen<g ref="char:EOLhyphen"/>ched, the third time hee goes a third way to worke. Martin Lu<g ref="char:EOLhyphen"/>ther, that worthy instrument of
+<pb n="87" facs="tcp:176253:46"/> Gods glory, reports of himself; that he was tempted to all kinde of iniquitie, to pride, to whore<g ref="char:EOLhyphen"/>dome, and the like; onely coue<g ref="char:EOLhyphen"/>tousnesse excepted, to this vice he was neuer tempted as he saith. Although indeed, who knoweth, whether Luther were not temp<g ref="char:EOLhyphen"/>ted to couetousnesse also after this time, when hee came to bee old? For the Deuil is a Serpent, craftie and politike: hee well knowes to what vices we are most prone both in youth &amp; old age, and will fit his temptations ac<g ref="char:EOLhyphen"/>cordingly. At one time or other he will try all his darts, &amp; though hee cast away many to small purpose, he cares not, they are cheape enough, they cost him nothing.</p>
+               <p>Wee read, that when Dauid <note place="margin">1. Sam. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> had killed a Lion, a Beare came and tooke a sheepe out of the flocke: the Beare being slaine in
+<pb n="88" facs="tcp:176253:47"/> like manner, he was faine after<g ref="char:EOLhyphen"/>ward to encounter with a Giant. And let all Dauids sons brethren (though indeed, not Dauid, but Abraham be our father) assure themselues, that <hi>finis vnius mali gradus erit futuri,</hi> let them looke for continuall assaults one on a<g ref="char:EOLhyphen"/>nothers necke, as hauing the world, the flesh, and the Deuill, three as dangerous enemies to the health of the soule, as a Lion, a Beare, and a Giant are to the welfare of the bodie. Only God grant vnto his children grace, that like as Dauid hauing ouer<g ref="char:EOLhyphen"/>come the Lion and Beare, tooke courage against the Giant; <hi>Thy seruant</hi> (saith hee to Saul) <hi>slew</hi>
+                  <note place="margin">1. Sam. 17. 36.</note>
+                  <hi>both the Lion and Beare, wherefore this vincircumcised Philistim shall be as one of them.</hi> So wee also by our former victories ouer sinne and Satan, may comfort our selues against his latter assaults;
+<pb n="89" facs="tcp:176253:47"/> and not doubt of obtaining the victorie in the end, come his fie<g ref="char:EOLhyphen"/>ry darts neuer so fiercely, &amp; seem they neuer so vnresistable. I was heeretofore in my youth temp<g ref="char:EOLhyphen"/>ted to pride, to drunkennesse, to whordome, &amp;c. but through the helpe of my God, and with the assistance of his holy Spirit, I then caused the aduersarie at length to flee away: wherefore this my temptation also in my old age to couetousnesse, to am<g ref="char:EOLhyphen"/>bition, to reuenge, &amp;c. this vncir<g ref="char:EOLhyphen"/>cumcised Philistim, the Lords e<g ref="char:EOLhyphen"/>nemie and mine shall be I doubt not▪ ere it hee long as one of them.</p>
+               <p>It is a good obseruation of S<seg rend="sup">t</seg>. Bernard (as I remember) <hi>Angels <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ciderunt &amp;c. The Angels fell in heauen; Adam in Paradise; and Iudas in Christs schoole▪</hi> though hee were the scholler of a Saui<g ref="char:EOLhyphen"/>our, yet was he the son of perdi<g ref="char:EOLhyphen"/>tion; <note place="margin">Ioh. 17.</note>
+                  <pb n="90" facs="tcp:176253:48"/> wherfore let him that thin<g ref="char:EOLhyphen"/>keth he standeth fast in the mid<g ref="char:EOLhyphen"/>dest of so many dangers wherein we now liue, take good heed vnto himselfe, lest hee receiue a fall. But thanks be vnto God, which hath in such sort gotten <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the victorie through Christ out Lord, that howsoeuer his chil<g ref="char:EOLhyphen"/>dren may fall grieuously, yet <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> finally: though they may be of<g ref="char:EOLhyphen"/>ten wounded, yet neuer killed; their deadly wound shall <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>red againe; and if they haue so much grace as to resist the ad<g ref="char:EOLhyphen"/>uersarie, they are sure to put him to the soyle in the end: But (alas) how few are there of vs, which professe our selues souldiours of Christs campe, that doe so <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as offer to resist, and to fight i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our Masters quarrell? Nay ra<g ref="char:EOLhyphen"/>ther, whereas the Lord would fight for vs, though we held <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> peace; whereas did we but stand
+<pb n="91" facs="tcp:176253:48"/> still, and wee might behold the saluation of our God: we shame<g ref="char:EOLhyphen"/>fully turne our backes in the day of battell, and start aside like a broken bow. No sooner doth the lustes of the flesh bid vs goe, but wee goe: no sooner doe the vaine pleasures of the world call vnto vs; Come, but we come: and no sooner doth the Deuill say vnto vs, Doe this, but we are rea<g ref="char:EOLhyphen"/>die to doe it out of hand without any resistance at all. Let me ap<g ref="char:EOLhyphen"/>peale to the consciences of men in this last and worst age of the world: How many are there, which being tempted haue beta<g ref="char:EOLhyphen"/>ken themselues to their wea<g ref="char:EOLhyphen"/>pons; haue opposed the shield of faith, haue called to mind Gods word forbidding that sinne, and called vpon God for grace to withstand the same? Nay, God grant it may no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> truly bee said of many at this day▪ as it was said of
+<pb n="92" facs="tcp:176253:49"/> the Israelites heeretofore; <hi>When the day of battell was come, there</hi>
+                  <note place="margin">1. Sam. 13</note>
+                  <hi>was neither sword nor speare found in the hands of any of the people.</hi> So farre are we from running to our weapons in time of need, as that wee haue no weapons to run vnto, and to vse in our owne de<g ref="char:EOLhyphen"/>fence. How many are there, which know not what it meaneth to resist the Deuill, and to haue him flee away? And doe we in<g ref="char:EOLhyphen"/>deed resist, and not know that we so do? or thinke we to ouercome▪ and not resist? or hope we to ob<g ref="char:EOLhyphen"/>taine the crowne, and not ouer<g ref="char:EOLhyphen"/>come? If any man so imagineth, that man greatly deceiueth him<g ref="char:EOLhyphen"/>selfe.</p>
+               <p>There are some I feare mee, which please themselues herein, because they know not what these combats meane, wherof we speake: all is quiet, all is peace within them. But is it in vaine
+<pb n="93" facs="tcp:176253:49"/> thinke these men, that wee are termed the <hi>militant</hi> or warring Church, and that the Scripture speaketh so often of souldiers, of fighting, and spirituall weapons? A peace happily there is indeed: but such a peace it is, as the Israe<g ref="char:EOLhyphen"/>lites had vnder the Philistims, when they were in such seruitude, as that they durst not offer resi<g ref="char:EOLhyphen"/>stance, and were angry with Sam<g ref="char:EOLhyphen"/>son for opposing himself against them; <hi>Knowest thou not</hi> (say they) <hi>that the Philistims are rulers ouer</hi>
+                  <note place="margin">Iudg. 15<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+                  <hi>vs?</hi> When Iehu marched to<g ref="char:EOLhyphen"/>wards Izreel, Iehoram sent a mes<g ref="char:EOLhyphen"/>senger to aske, <hi>Is it peace?</hi> Who being commanded to turne be<g ref="char:EOLhyphen"/>hind, <note place="margin">2. King. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> the King sent another with the same message. This messen<g ref="char:EOLhyphen"/>ger being likewise stayed, Ieho<g ref="char:EOLhyphen"/>ram goeth himself to meet Iehu: and comming to him, said, <hi>Is it peace, Iehu?</hi> Wherevnto Iehu at length makes answer, <hi>What</hi>
+                  <pb n="94" facs="tcp:176253:50"/>
+                  <hi>peace? while the whoredomes of thy mother Iezebel, &amp; her witchcrafts are yet in great number?</hi> I would wish that man, which so much flattereth himselfe with a kind of peace, once throughly to enter into himselfe, and in good ear<g ref="char:EOLhyphen"/>nest to demand of his owne con<g ref="char:EOLhyphen"/>science; <hi>Is it peace, o my conscience?</hi> I perswade my selfe, hee should not need aske thrise: his consci<g ref="char:EOLhyphen"/>ence would make him answer a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the very first; <hi>What peace? as long as thy sinnes and iniquities are yet in great number?</hi> No, no, (gentle Reader) deceiue not thy selfe: as long as thy pride, selfe-loue, dis<g ref="char:EOLhyphen"/>daine, couetousnesse, wanton<g ref="char:EOLhyphen"/>nesse, and such like remain with<g ref="char:EOLhyphen"/>in thee, if there be any peace, it is more dangerous than any wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whatsoeuer. When the Deuill (for it is his suggestion) thus speaketh to thee of peace, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> stands thee vpon with all speed
+<pb n="95" facs="tcp:176253:50"/> to make thy selfe ready vnto the battell: for indeed, in so spea<g ref="char:EOLhyphen"/>king he assaulteth thee; this is one of his fierie darts which must be quenched, and that ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of hand, as being one of the most dangerous. Hee that durst set vpon the Captiane, feares not to encounter with any souldier: looke not then, that hee should suffer thee to be quit, he will as<g ref="char:EOLhyphen"/>sault thee assuredly; but if thou wouldest haue him seldome so to doe, then follow the counsell of that godly Father S Chryso<g ref="char:EOLhyphen"/>stome. If a dogge (saith he) com<g ref="char:EOLhyphen"/>ming to thy table, thou castest him morsels of bread or meat, be sure he will watch thee continu<g ref="char:EOLhyphen"/>ally, and no sooner shalt thou sit downe, but hee will be at hand crauing more after his manner: wheras if thou giuest him blowes in stead of meat, thou shalt soone be rid of his company. In like
+<pb n="96" facs="tcp:176253:51"/> sort, cast the Deuill a blasphe<g ref="char:EOLhyphen"/>mous word or wicked deed, when hee prouoketh thee thereunto; and no sooner shall any occasion offer it selfe, but hee will tempt thee to the like againe: whereas if when he would haue thee com<g ref="char:EOLhyphen"/>mit sinne, thou doest not onely not yeeld thereunto, but thence take occasion to doe good, and so giue the Deuill a blow as it were; thou shalt cause him to take heed how he medleth with thee any more afterward. Whiles the Romans onely withstood Hannibal, they could neuer wholly be rid of him; but euer and anon hee would set vpon them againe: vntill at length they sent a Captaine to spoile his Countrey, whereupon hee was glad presently to get him away, that hee might defend his owne citie and people. Doe not then only resist the temptations of the
+<pb n="97" facs="tcp:176253:51"/> Deuill, but when hee tempteth thee to gluttonie or drunkennes, then giue thy selfe to abstinence and fasting; when he would haue thee reuenge aniniurie, take oc<g ref="char:EOLhyphen"/>casion to doe good vnto thine enemie; when he prouokes thee to immoderate gaming, lasciui<g ref="char:EOLhyphen"/>ous dancing, and such like vani<g ref="char:EOLhyphen"/>ties, then spend more time than ordinary in praier, reading, and such like exercises of religion. This is the onely way for Christs souldier to be at peace.</p>
+               <p>And now to end with a word of exhortation. Consider (gen<g ref="char:EOLhyphen"/>tle Reader) that being baptized in the name of Christ, thou hast thereby professed thy selfe an vt<g ref="char:EOLhyphen"/>ter enemie to his aduersarie the Deuill: for as he saith, <hi>No man</hi>
+                  <note place="margin">Mat. 6.</note>
+                  <hi>can serue two Masters; for either hee shall hate the one, and loue the other; or else hee shall leane to the one▪ and despise the other.</hi> Indeed,
+<pb n="98" facs="tcp:176253:52"/> true it is, that if many Masters agree in one, a man may serue many as well as one: but dis<g ref="char:EOLhyphen"/>greeing as God and Mammon, as a Sauiour and a Dest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, as Christ and the Deuill; it cannot be, but if he loue the one, he must hate the other; if he cleaue to the one, he must forsake the other; if he submit himselfe vnto God, as S. Iames requireth in the for<g ref="char:EOLhyphen"/>mer part of the verse; hee must <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m. 4. 7.</note> likewise resist the Deuill, as hee willeth in the latter part of the same. Then wast thou signed with the signe of the crosse, in to<g ref="char:EOLhyphen"/>ken that thou shouldest man<g ref="char:EOLhyphen"/>fully fight vnder Christs banner against the world, the flesh, and the Deuill: which if thou mea<g ref="char:EOLhyphen"/>nest to do, and by doing to please thy Master; thou must beginne betimes; fight manfully, and continue to the end; for Christ liketh not <hi>milite<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>;</hi> hee
+<pb n="99" facs="tcp:176253:52"/> must haue those which must <hi>fight a good fight,</hi> which is, if with <note place="margin">2. Tim.</note> So Paul, they <hi>haue finished their course.</hi>
+               </p>
+               <p>True it is, that like as in battels of this world, the greatest brunt lieth on the younger sort, they are subiect to most temptations: but yet both old and young I warrant them, shall haue their hands full, and enough to doe at all times. Wherefore euery mor<g ref="char:EOLhyphen"/>ning haue this or the like medi<g ref="char:EOLhyphen"/>tation in thy minde.</p>
+               <p>I am this day a souldier of Christs campe: I haue a mighty, a craftie, and malicious aduersa<g ref="char:EOLhyphen"/>rie, which hath nothing, else to doe, saue onely to seeke my de<g ref="char:EOLhyphen"/>struction. If I doe nothing, but be idle, yet can I not be quiet: when I Am most idle, the Deuill will be most busie with me. If I doe any thing. If I take any busi<g ref="char:EOLhyphen"/>nesse in hand; the Deuill setteth
+<pb n="100" facs="tcp:176253:53"/> infinite traps to take my feet▪ When I eat and drinke, he laieth snares in my meat and drinke: and if I eat or drinke more than sufficeth nature, I am taken in his snares. When I put on my ap<g ref="char:EOLhyphen"/>parell, the Deuill laieth snared in my apparell also: and if I put on any that doth not beseeme the grauitie of a Christian, I am taken in his snares; and vnlesse I doe perceiue it, my danger i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the greater. Whether I sleeper or wake, whether I speake or hold my peace, whether I buy or sell, whether I giue or take, whether I labour or rest, whether I do any thing or doe nothing, all is full of perils, I can no where be se<g ref="char:EOLhyphen"/>cure. Wherefore I must with that holy man Iob, <hi>feare all my waies:</hi> I must after the Apostles counsell, <hi>put on the whole armour</hi>
+                  <note place="margin">Eph. 6.</note>
+                  <hi>of God;</hi> and aboue all, and first of all, betake my selfe to praier,
+<pb n="101" facs="tcp:176253:53"/> without which the <hi>shield of Faith,</hi> and the <hi>Sword of the Spirit,</hi> will serue mee to small purpose: I must stand on my guard at all times and in all places. Thus with S. Paul <hi>fighting a good fight and finishing my course,</hi> I shall ob<g ref="char:EOLhyphen"/>taine a crowne of glorie, which Christ the righteous Iudge shall giue vnto mee at that day. Now, this care to fight the Lords bat<g ref="char:EOLhyphen"/>tels, and to resist our aduersarie the Deuill, that so in the end wee may obtaine this crowne of glo<g ref="char:EOLhyphen"/>rie, God of his mercie vouch<g ref="char:EOLhyphen"/>safe to grant vnto vs all for his deare Sonnes sake Iesus Christ.</p>
+               <closer>Amen.</closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
